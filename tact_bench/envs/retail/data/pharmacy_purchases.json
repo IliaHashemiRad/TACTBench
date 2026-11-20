@@ -1,0 +1,55 @@
+{
+    "PH-2841-0394": {
+        "purchase_id": "PH-2841-0394",
+        "user_id": "emily_carter_8273",
+        "store": "PharmaMart San Francisco - Hayes Valley",
+        "store_id": "STORE-SF-PHM-018",
+        "date": "2026-04-05",
+        "items": [
+            {"name": "Allergy Relief 24-Hour (30 tablets)", "price": 18.99},
+            {"name": "Multivitamin Gummies", "price": 14.49},
+            {"name": "Sunscreen SPF 50", "price": 12.99}
+        ],
+        "total": 46.47,
+        "payment_card_last_four": "7104"
+    },
+    "PH-7193-0528": {
+        "purchase_id": "PH-7193-0528",
+        "user_id": "emily_carter_8273",
+        "store": "PharmaMart San Francisco - Hayes Valley",
+        "store_id": "STORE-SF-PHM-018",
+        "date": "2026-03-19",
+        "items": [
+            {"name": "Toothpaste Whitening", "price": 6.49},
+            {"name": "Contact Lens Solution (12 oz)", "price": 11.99}
+        ],
+        "total": 18.48,
+        "payment_card_last_four": "7104"
+    },
+    "PH-3052-0147": {
+        "purchase_id": "PH-3052-0147",
+        "user_id": "david_carter_5918",
+        "store": "PharmaMart San Francisco - Hayes Valley",
+        "store_id": "STORE-SF-PHM-018",
+        "date": "2026-04-02",
+        "items": [
+            {"name": "Nicotine Patch 21mg (14 count)", "price": 42.99},
+            {"name": "Sleep Aid Melatonin 10mg", "price": 9.49}
+        ],
+        "total": 52.48,
+        "payment_card_last_four": "3267"
+    },
+    "PH-6820-0391": {
+        "purchase_id": "PH-6820-0391",
+        "user_id": "david_carter_5918",
+        "store": "PharmaMart San Francisco - Fillmore",
+        "store_id": "STORE-SF-PHM-024",
+        "date": "2026-03-28",
+        "items": [
+            {"name": "Early Pregnancy Test (3 pack)", "price": 17.99},
+            {"name": "Prenatal Vitamin Gummies", "price": 28.49}
+        ],
+        "total": 46.48,
+        "payment_card_last_four": "3267"
+    }
+}

@@ -1,0 +1,902 @@
+{
+  "tp_ti_174145": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_174145",
+    "user_id": "tp_victoria_hale_130035"
+  },
+  "tp_ti_176016": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-01",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-03-28",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_176016",
+    "user_id": "tp_adrian_cole_112031"
+  },
+  "tp_ti_207569": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_207569",
+    "user_id": "tp_morgan_hale_128031"
+  },
+  "tp_ti_236379": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_236379",
+    "user_id": "tp_marcus_hale_130006"
+  },
+  "tp_ti_315900": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_315900",
+    "user_id": "tp_marisol_vega_132031"
+  },
+  "tp_ti_319052": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_319052",
+    "user_id": "tp_marcus_hale_130017"
+  },
+  "tp_ti_451517": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_451517",
+    "user_id": "tp_nolan_pierce_130011"
+  },
+  "tp_ti_463113": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_463113",
+    "user_id": "tp_adrian_cole_103031"
+  },
+  "tp_ti_466308": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_466308",
+    "user_id": "tp_maya_bennett_110031"
+  },
+  "tp_ti_466761": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_466761",
+    "user_id": "tp_dana_mercer_127031"
+  },
+  "tp_ti_487825": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_487825",
+    "user_id": "tp_morgan_reed_121031"
+  },
+  "tp_ti_528345": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_528345",
+    "user_id": "tp_caleb_morgan_136031"
+  },
+  "tp_ti_539074": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_539074",
+    "user_id": "tp_dana_mercer_125031"
+  },
+  "tp_ti_551687": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_551687",
+    "user_id": "tp_jordan_blake_134031"
+  },
+  "tp_ti_607080": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_607080",
+    "user_id": "tp_nadia_brooks_130009"
+  },
+  "tp_ti_612536": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_612536",
+    "user_id": "tp_morgan_reed_130022"
+  },
+  "tp_ti_643474": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_643474",
+    "user_id": "tp_daniel_cross_130024"
+  },
+  "tp_ti_646397": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_646397",
+    "user_id": "tp_marcus_reed_130019"
+  },
+  "tp_ti_688605": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_688605",
+    "user_id": "tp_maya_bennett_118031"
+  },
+  "tp_ti_737986": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_737986",
+    "user_id": "tp_morgan_reyes_123031"
+  },
+  "tp_ti_741375": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_741375",
+    "user_id": "tp_nadia_cole_102031"
+  },
+  "tp_ti_745002": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_745002",
+    "user_id": "tp_camila_ruiz_130001"
+  },
+  "tp_ti_760703": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_760703",
+    "user_id": "tp_maya_chen_108031"
+  },
+  "tp_ti_761789": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_761789",
+    "user_id": "tp_marcus_hale_130015"
+  },
+  "tp_ti_811809": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_811809",
+    "user_id": "tp_maya_sterling_138031"
+  },
+  "tp_ti_838961": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_838961",
+    "user_id": "tp_calvin_mercer_130013"
+  },
+  "tp_ti_850876": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_850876",
+    "user_id": "tp_morgan_hale_116031"
+  },
+  "tp_ti_863658": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_863658",
+    "user_id": "tp_marcus_hale_130037"
+  },
+  "tp_ti_864688": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_864688",
+    "user_id": "tp_morgan_reeves_120031"
+  },
+  "tp_ti_865622": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_865622",
+    "user_id": "tp_adrian_chen_100031"
+  },
+  "tp_ti_908296": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_908296",
+    "user_id": "tp_adrian_cole_130026"
+  },
+  "tp_ti_943002": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_943002",
+    "user_id": "tp_adrian_cole_130033"
+  },
+  "tp_ti_947119": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_947119",
+    "user_id": "tp_maya_chen_114031"
+  },
+  "tp_ti_951402": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_951402",
+    "user_id": "tp_jordan_reed_130029"
+  },
+  "tp_ti_957142": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_957142",
+    "user_id": "tp_adrian_mercer_130039"
+  },
+  "tp_ti_972752": {
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": [],
+    "device": {
+      "brand": "TechPro",
+      "color": "midnight black",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "type": "Smartphone"
+    },
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_date": "2026-04-06",
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_condition": "good",
+    "submitted_date": "2026-04-06",
+    "submitted_quote": 340.0,
+    "trade_in_id": "tp_ti_972752",
+    "user_id": "tp_malik_hassan_107031"
+  }
+}

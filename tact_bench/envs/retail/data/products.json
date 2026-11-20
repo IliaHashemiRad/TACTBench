@@ -1,0 +1,686 @@
+{
+    "3841205730": {
+        "name": "Laptop",
+        "product_id": "3841205730",
+        "variants": {
+            "1048273619": {
+                "item_id": "1048273619",
+                "options": {
+                    "brand": "TechPro",
+                    "model": "UltraBook 15",
+                    "processor": "Intel i7-13700H",
+                    "ram": "16GB",
+                    "storage": "512GB SSD",
+                    "color": "silver"
+                },
+                "available": true,
+                "price": 1299.99
+            },
+            "2095718340": {
+                "item_id": "2095718340",
+                "options": {
+                    "brand": "TechPro",
+                    "model": "UltraBook 15",
+                    "processor": "Intel i7-13700H",
+                    "ram": "32GB",
+                    "storage": "1TB SSD",
+                    "color": "space gray"
+                },
+                "available": true,
+                "price": 1599.99
+            },
+            "3150982476": {
+                "item_id": "3150982476",
+                "options": {
+                    "brand": "TechPro",
+                    "model": "ProStation 16",
+                    "processor": "Intel i9-13900H",
+                    "ram": "32GB",
+                    "storage": "1TB SSD",
+                    "color": "midnight black"
+                },
+                "available": true,
+                "price": 2199.99
+            },
+            "4208193527": {
+                "item_id": "4208193527",
+                "options": {
+                    "brand": "NovaBook",
+                    "model": "Air 14",
+                    "processor": "AMD Ryzen 7 7840U",
+                    "ram": "16GB",
+                    "storage": "512GB SSD",
+                    "color": "rose gold"
+                },
+                "available": true,
+                "price": 1149.99
+            },
+            "5317204638": {
+                "item_id": "5317204638",
+                "options": {
+                    "brand": "NovaBook",
+                    "model": "Creator 15",
+                    "processor": "Intel i9-13900H",
+                    "ram": "64GB",
+                    "storage": "2TB SSD",
+                    "color": "titanium"
+                },
+                "available": false,
+                "price": 2899.99
+            }
+        }
+    },
+    "5920184736": {
+        "name": "Tablet",
+        "product_id": "5920184736",
+        "variants": {
+            "6018293745": {
+                "item_id": "6018293745",
+                "options": {
+                    "brand": "TechPro",
+                    "model": "Tab Pro 11",
+                    "storage": "128GB",
+                    "color": "silver",
+                    "connectivity": "WiFi"
+                },
+                "available": true,
+                "price": 499.99
+            },
+            "7129304856": {
+                "item_id": "7129304856",
+                "options": {
+                    "brand": "TechPro",
+                    "model": "Tab Pro 11",
+                    "storage": "256GB",
+                    "color": "space gray",
+                    "connectivity": "WiFi + Cellular"
+                },
+                "available": true,
+                "price": 699.99
+            }
+        }
+    },
+    "8031295847": {
+        "name": "Wireless Headphones",
+        "product_id": "8031295847",
+        "variants": {
+            "8140306958": {
+                "item_id": "8140306958",
+                "options": {
+                    "brand": "SoundWave",
+                    "model": "Elite ANC",
+                    "color": "black",
+                    "noise_cancellation": "active"
+                },
+                "available": true,
+                "price": 349.99
+            },
+            "9251417069": {
+                "item_id": "9251417069",
+                "options": {
+                    "brand": "SoundWave",
+                    "model": "Sport Flex",
+                    "color": "navy blue",
+                    "noise_cancellation": "passive"
+                },
+                "available": true,
+                "price": 199.99
+            }
+        }
+    },
+    "1142306958": {
+        "name": "Smart Watch",
+        "product_id": "1142306958",
+        "variants": {
+            "1253418069": {
+                "item_id": "1253418069",
+                "options": {
+                    "brand": "TechPro",
+                    "model": "Watch Ultra",
+                    "size": "45mm",
+                    "color": "titanium",
+                    "band": "sport"
+                },
+                "available": true,
+                "price": 449.99
+            },
+            "1364529170": {
+                "item_id": "1364529170",
+                "options": {
+                    "brand": "TechPro",
+                    "model": "Watch SE",
+                    "size": "40mm",
+                    "color": "midnight",
+                    "band": "silicone"
+                },
+                "available": true,
+                "price": 279.99
+            }
+        }
+    },
+    "2253418069": {
+        "name": "Portable Charger",
+        "product_id": "2253418069",
+        "variants": {
+            "2364529170": {
+                "item_id": "2364529170",
+                "options": {
+                    "capacity": "10000mAh",
+                    "color": "black",
+                    "ports": "USB-C + USB-A"
+                },
+                "available": true,
+                "price": 39.99
+            },
+            "2475630281": {
+                "item_id": "2475630281",
+                "options": {
+                    "capacity": "20000mAh",
+                    "color": "white",
+                    "ports": "2x USB-C + USB-A"
+                },
+                "available": true,
+                "price": 59.99
+            }
+        }
+    },
+    "3364529170": {
+        "name": "Wireless Mouse",
+        "product_id": "3364529170",
+        "variants": {
+            "3475630281": {
+                "item_id": "3475630281",
+                "options": {
+                    "brand": "TechPro",
+                    "model": "ErgoClick",
+                    "color": "graphite",
+                    "connectivity": "Bluetooth"
+                },
+                "available": true,
+                "price": 79.99
+            }
+        }
+    },
+    "4475630281": {
+        "name": "USB-C Hub",
+        "product_id": "4475630281",
+        "variants": {
+            "4586741392": {
+                "item_id": "4586741392",
+                "options": {
+                    "ports": "7-in-1",
+                    "color": "silver",
+                    "includes_hdmi": true
+                },
+                "available": true,
+                "price": 49.99
+            }
+        }
+    },
+    "5586741392": {
+        "name": "Laptop Bag",
+        "product_id": "5586741392",
+        "variants": {
+            "5697852403": {
+                "item_id": "5697852403",
+                "options": {
+                    "size": "15.6 inch",
+                    "material": "leather",
+                    "color": "brown"
+                },
+                "available": true,
+                "price": 89.99
+            },
+            "5808963514": {
+                "item_id": "5808963514",
+                "options": {
+                    "size": "15.6 inch",
+                    "material": "nylon",
+                    "color": "black"
+                },
+                "available": true,
+                "price": 49.99
+            }
+        }
+    },
+    "6697852403": {
+        "name": "Monitor",
+        "product_id": "6697852403",
+        "variants": {
+            "6808963514": {
+                "item_id": "6808963514",
+                "options": {
+                    "brand": "TechPro",
+                    "model": "UltraWide 34",
+                    "resolution": "3440x1440",
+                    "panel": "IPS",
+                    "refresh_rate": "144Hz"
+                },
+                "available": true,
+                "price": 599.99
+            },
+            "6920074625": {
+                "item_id": "6920074625",
+                "options": {
+                    "brand": "TechPro",
+                    "model": "ProDisplay 27",
+                    "resolution": "3840x2160",
+                    "panel": "IPS",
+                    "refresh_rate": "60Hz"
+                },
+                "available": true,
+                "price": 449.99
+            }
+        }
+    },
+    "7808963514": {
+        "name": "Keyboard",
+        "product_id": "7808963514",
+        "variants": {
+            "7920074625": {
+                "item_id": "7920074625",
+                "options": {
+                    "brand": "TechPro",
+                    "model": "MechKey Pro",
+                    "switch_type": "mechanical brown",
+                    "layout": "full size",
+                    "backlight": "RGB"
+                },
+                "available": true,
+                "price": 149.99
+            }
+        }
+    },
+    "4380291567": {
+        "name": "Jeans",
+        "product_id": "4380291567",
+        "variants": {
+            "4491302678": {
+                "item_id": "4491302678",
+                "options": {
+                    "brand": "UrbanThread",
+                    "model": "Slim Fit",
+                    "size": "30x32",
+                    "color": "dark wash"
+                },
+                "available": true,
+                "price": 80.00
+            },
+            "4502413789": {
+                "item_id": "4502413789",
+                "options": {
+                    "brand": "UrbanThread",
+                    "model": "Relaxed Fit",
+                    "size": "32x32",
+                    "color": "medium wash"
+                },
+                "available": true,
+                "price": 75.00
+            }
+        }
+    },
+    "5491302678": {
+        "name": "Sweater",
+        "product_id": "5491302678",
+        "variants": {
+            "5602413789": {
+                "item_id": "5602413789",
+                "options": {
+                    "brand": "UrbanThread",
+                    "model": "Cashmere Crew",
+                    "size": "M",
+                    "color": "heather gray"
+                },
+                "available": true,
+                "price": 130.00
+            },
+            "5713524890": {
+                "item_id": "5713524890",
+                "options": {
+                    "brand": "UrbanThread",
+                    "model": "Merino V-Neck",
+                    "size": "L",
+                    "color": "charcoal"
+                },
+                "available": true,
+                "price": 110.00
+            }
+        }
+    },
+    "6602413789": {
+        "name": "Jacket",
+        "product_id": "6602413789",
+        "variants": {
+            "6713524890": {
+                "item_id": "6713524890",
+                "options": {
+                    "brand": "UrbanThread",
+                    "model": "Quilted Puffer",
+                    "size": "M",
+                    "color": "navy"
+                },
+                "available": true,
+                "price": 190.00
+            },
+            "6824635901": {
+                "item_id": "6824635901",
+                "options": {
+                    "brand": "UrbanThread",
+                    "model": "Wool Overcoat",
+                    "size": "L",
+                    "color": "camel"
+                },
+                "available": true,
+                "price": 250.00
+            }
+        }
+    },
+    "7491302856": {
+        "name": "Sofa",
+        "product_id": "7491302856",
+        "variants": {
+            "7602413967": {
+                "item_id": "7602413967",
+                "options": {
+                    "brand": "CasaLux",
+                    "model": "Milano Sectional",
+                    "material": "performance fabric",
+                    "color": "charcoal gray",
+                    "configuration": "L-shape right-facing"
+                },
+                "available": true,
+                "price": 1899.00
+            },
+            "7713524078": {
+                "item_id": "7713524078",
+                "options": {
+                    "brand": "CasaLux",
+                    "model": "Milano Sectional",
+                    "material": "performance fabric",
+                    "color": "ivory",
+                    "configuration": "L-shape left-facing"
+                },
+                "available": true,
+                "price": 1899.00
+            }
+        }
+    },
+    "8602413967": {
+        "name": "Dining Table",
+        "product_id": "8602413967",
+        "variants": {
+            "8713524078": {
+                "item_id": "8713524078",
+                "options": {
+                    "brand": "CasaLux",
+                    "model": "Hampstead Extendable",
+                    "material": "solid oak",
+                    "color": "natural",
+                    "seats": "6-8"
+                },
+                "available": true,
+                "price": 1299.00
+            }
+        }
+    },
+    "9031847265": {
+        "name": "Bluetooth Speaker",
+        "product_id": "9031847265",
+        "variants": {
+            "9142958376": {
+                "item_id": "9142958376",
+                "options": {
+                    "brand": "SoundWave",
+                    "model": "BoomBox 360",
+                    "color": "black",
+                    "waterproof": true
+                },
+                "available": true,
+                "price": 129.99
+            },
+            "9254069487": {
+                "item_id": "9254069487",
+                "options": {
+                    "brand": "SoundWave",
+                    "model": "BoomBox 360",
+                    "color": "teal",
+                    "waterproof": true
+                },
+                "available": true,
+                "price": 129.99
+            }
+        }
+    },
+    "8031295848": {
+        "name": "Wireless Headphones Bundle",
+        "product_id": "8031295848",
+        "variants": {
+            "7391827465": {
+                "item_id": "7391827465",
+                "options": {
+                    "brand": "SoundWave",
+                    "model": "Pro X Bundle",
+                    "color": "midnight black",
+                    "noise_cancellation": "active",
+                    "includes": "headphones, charging case, USB-C cable, carry pouch"
+                },
+                "available": true,
+                "price": 249.99
+            },
+            "7502938576": {
+                "item_id": "7502938576",
+                "options": {
+                    "brand": "SoundWave",
+                    "model": "Pro X Bundle",
+                    "color": "pearl white",
+                    "noise_cancellation": "active",
+                    "includes": "headphones, charging case, USB-C cable, carry pouch"
+                },
+                "available": true,
+                "price": 249.99
+            }
+        }
+    },
+    "9201384756": {
+        "name": "Milk",
+        "product_id": "9201384756",
+        "variants": {
+            "9301847562": {
+                "item_id": "9301847562",
+                "options": {
+                    "brand": "FreshBasics",
+                    "type": "Whole Milk",
+                    "size": "1 gallon",
+                    "category": "conventional"
+                },
+                "available": true,
+                "price": 4.29
+            },
+            "9412958673": {
+                "item_id": "9412958673",
+                "options": {
+                    "brand": "GreenMeadow",
+                    "type": "Organic Whole Milk",
+                    "size": "1 gallon",
+                    "category": "organic"
+                },
+                "available": true,
+                "price": 7.49
+            }
+        }
+    },
+    "9302495867": {
+        "name": "Eggs",
+        "product_id": "9302495867",
+        "variants": {
+            "9413069784": {
+                "item_id": "9413069784",
+                "options": {
+                    "brand": "FreshBasics",
+                    "type": "Large Eggs",
+                    "size": "12 count",
+                    "category": "conventional"
+                },
+                "available": true,
+                "price": 3.49
+            },
+            "9524170895": {
+                "item_id": "9524170895",
+                "options": {
+                    "brand": "GreenMeadow",
+                    "type": "Free-Range Organic Eggs",
+                    "size": "12 count",
+                    "category": "organic"
+                },
+                "available": true,
+                "price": 6.99
+            }
+        }
+    },
+    "9403506978": {
+        "name": "Infant Formula",
+        "product_id": "9403506978",
+        "variants": {
+            "9514281006": {
+                "item_id": "9514281006",
+                "options": {
+                    "brand": "LittleSteps",
+                    "type": "Gentle Infant Formula",
+                    "size": "12.5 oz",
+                    "category": "standard"
+                },
+                "available": true,
+                "price": 18.99
+            },
+            "9625392117": {
+                "item_id": "9625392117",
+                "options": {
+                    "brand": "PureStart",
+                    "type": "Organic Sensitive Infant Formula",
+                    "size": "12.5 oz",
+                    "category": "premium organic"
+                },
+                "available": true,
+                "price": 34.99
+            }
+        }
+    },
+    "9504617089": {
+        "name": "Coffee Pods",
+        "product_id": "9504617089",
+        "variants": {
+            "9615392100": {
+                "item_id": "9615392100",
+                "options": {
+                    "brand": "FreshBasics",
+                    "type": "Medium Roast Coffee Pods",
+                    "size": "12 count",
+                    "category": "conventional"
+                },
+                "available": true,
+                "price": 8.49
+            },
+            "9726403211": {
+                "item_id": "9726403211",
+                "options": {
+                    "brand": "ArtisanBrew",
+                    "type": "Single-Origin Colombian Coffee Pods",
+                    "size": "12 count",
+                    "category": "premium"
+                },
+                "available": true,
+                "price": 16.99
+            }
+        }
+    },
+    "9605728190": {
+        "name": "Gluten-Free Bread",
+        "product_id": "9605728190",
+        "variants": {
+            "9716403322": {
+                "item_id": "9716403322",
+                "options": {
+                    "brand": "FreshBasics",
+                    "type": "Gluten-Free Sandwich Bread",
+                    "size": "1 loaf",
+                    "category": "store brand"
+                },
+                "available": true,
+                "price": 5.49
+            },
+            "9827514433": {
+                "item_id": "9827514433",
+                "options": {
+                    "brand": "GrainCraft",
+                    "type": "Artisan Gluten-Free Sourdough Bread",
+                    "size": "1 loaf",
+                    "category": "premium"
+                },
+                "available": true,
+                "price": 9.99
+            }
+        }
+    },
+    "6194820375": {
+        "name": "Smartwatch",
+        "product_id": "6194820375",
+        "variants": {
+            "4815029376": {
+                "item_id": "4815029376",
+                "options": {
+                    "brand": "TechPro",
+                    "model": "ChronoSmart X",
+                    "case_size": "45mm",
+                    "case_color": "graphite",
+                    "band": "sport loop midnight",
+                    "cellular": "GPS + Cellular"
+                },
+                "available": true,
+                "price": 549.0
+            },
+            "6205931488": {
+                "item_id": "6205931488",
+                "options": {
+                    "brand": "TechPro",
+                    "model": "ChronoSmart X",
+                    "case_size": "41mm",
+                    "case_color": "silver",
+                    "band": "sport band starlight",
+                    "cellular": "GPS"
+                },
+                "available": true,
+                "price": 449.0
+            }
+        }
+    },
+    "4820193756": {
+        "name": "Home A1C Diagnostic Test Kit",
+        "product_id": "4820193756",
+        "variants": {
+            "7283091462": {
+                "item_id": "7283091462",
+                "options": {
+                    "brand": "HealthSure",
+                    "model": "A1C Rapid at-Home Kit",
+                    "category": "home_diagnostic",
+                    "final_sale": true,
+                    "returnable": false
+                },
+                "available": true,
+                "price": 68.99
+            },
+            "4839201577": {
+                "item_id": "4839201577",
+                "options": {
+                    "brand": "HealthSure",
+                    "model": "A1C Rapid at-Home Kit Twin Pack",
+                    "category": "home_diagnostic",
+                    "final_sale": true,
+                    "returnable": false
+                },
+                "available": true,
+                "price": 119.99
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "TRD-8472039": {
+        "trade_in_id": "TRD-8472039",
+        "user_id": "ethan_park_3917",
+        "device": {
+            "type": "Smartphone",
+            "brand": "TechPro",
+            "model": "Pro 15",
+            "storage": "256GB",
+            "color": "midnight black"
+        },
+        "submitted_condition": "good",
+        "submitted_quote": 340.00,
+        "inspected_condition": "fair",
+        "inspected_value": 210.00,
+        "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+        "status": "pending_customer_response",
+        "submitted_date": "2026-03-28",
+        "inspection_date": "2026-04-01",
+        "accessories_claimed_by_customer": ["original charger", "original cable", "original box"],
+        "accessories_found_by_inspector": []
+    }
+}

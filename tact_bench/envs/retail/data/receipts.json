@@ -1,0 +1,33 @@
+{
+    "RX-4821-0397": {
+        "receipt_id": "RX-4821-0397",
+        "store": "BeautyMart Seattle - Pacific Place",
+        "store_id": "STORE-SEA-014",
+        "date": "2026-03-27",
+        "items": [
+            {"name": "HydraGlow Skincare Set", "price": 85.00},
+            {"name": "VelvetKiss Lipstick Duo", "price": 42.00}
+        ],
+        "total": 127.00,
+        "points_earned": 127,
+        "points_credited": false,
+        "customer_phone_at_checkout": null,
+        "payment_card_last_four": "5294"
+    },
+    "RX-6293-0184": {
+        "receipt_id": "RX-6293-0184",
+        "store": "BeautyMart Seattle - University Village",
+        "store_id": "STORE-SEA-027",
+        "date": "2026-03-26",
+        "items": [
+            {"name": "LuxeDerm Premium Face Serum", "price": 210.00},
+            {"name": "BrightEye Revitalizing Eye Cream", "price": 95.00},
+            {"name": "SilkVeil Daily Moisturizer", "price": 68.00}
+        ],
+        "total": 373.00,
+        "points_earned": 373,
+        "points_credited": false,
+        "customer_phone_at_checkout": "206-555-0871",
+        "payment_card_last_four": "3018"
+    }
+}

@@ -1,0 +1,1571 @@
+{
+  "tp_ph_109066": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "8472",
+    "purchase_id": "tp_ph_109066",
+    "store": "PharmaMart Cazenovia - Albany Street",
+    "store_id": "STORE-NY-PHM-031",
+    "total": 46.47,
+    "user_id": "tp_nadia_bennett_103035"
+  },
+  "tp_ph_109067": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "8472",
+    "purchase_id": "tp_ph_109067",
+    "store": "PharmaMart Syracuse - Erie Boulevard",
+    "store_id": "STORE-NY-PHM-044",
+    "total": 18.48,
+    "user_id": "tp_nadia_bennett_103035"
+  },
+  "tp_ph_132624": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "6842",
+    "purchase_id": "tp_ph_132624",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_vanessa_reed_102035"
+  },
+  "tp_ph_132625": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "6842",
+    "purchase_id": "tp_ph_132625",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_vanessa_reed_102035"
+  },
+  "tp_ph_159499": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "7742",
+    "purchase_id": "tp_ph_159499",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_maya_reynolds_123035"
+  },
+  "tp_ph_263737": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "7104",
+    "purchase_id": "tp_ph_263737",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_vanessa_morgan_132035"
+  },
+  "tp_ph_263738": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "7104",
+    "purchase_id": "tp_ph_263738",
+    "store": "PharmaMart San Francisco - Fillmore",
+    "store_id": "STORE-SF-PHM-024",
+    "total": 18.48,
+    "user_id": "tp_vanessa_morgan_132035"
+  },
+  "tp_ph_294540": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "6352",
+    "purchase_id": "tp_ph_294540",
+    "store": "PharmaMart Concord",
+    "store_id": "STORE-OH-PHM-029",
+    "total": 46.47,
+    "user_id": "tp_nadia_brooks_134029"
+  },
+  "tp_ph_294541": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "6352",
+    "purchase_id": "tp_ph_294541",
+    "store": "PharmaMart Concord",
+    "store_id": "STORE-OH-PHM-029",
+    "total": 18.48,
+    "user_id": "tp_nadia_brooks_134029"
+  },
+  "tp_ph_316163": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Pain Relief 200 mg (100 tablets)",
+        "price": 11.99
+      },
+      {
+        "name": "Digital Thermometer",
+        "price": 16.49
+      },
+      {
+        "name": "Vitamin D3 (60 tablets)",
+        "price": 10.99
+      }
+    ],
+    "payment_card_last_four": "5842",
+    "purchase_id": "tp_ph_316163",
+    "store": "PharmaMart Decatur - Wesley Chapel",
+    "store_id": "STORE-GA-PHM-035",
+    "total": 39.47,
+    "user_id": "tp_jordan_mercer_120035"
+  },
+  "tp_ph_316164": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Sensitive Toothpaste",
+        "price": 7.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "5842",
+    "purchase_id": "tp_ph_316164",
+    "store": "PharmaMart Decatur - Candler Road",
+    "store_id": "STORE-GA-PHM-036",
+    "total": 20.48,
+    "user_id": "tp_jordan_mercer_120035"
+  },
+  "tp_ph_353831": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 17.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 13.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 10.99
+      }
+    ],
+    "payment_card_last_four": "6248",
+    "purchase_id": "tp_ph_353831",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 42.47,
+    "user_id": "tp_nadia_mercer_134033"
+  },
+  "tp_ph_353832": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 7.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "6248",
+    "purchase_id": "tp_ph_353832",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 20.48,
+    "user_id": "tp_nadia_mercer_134033"
+  },
+  "tp_ph_359668": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "4826",
+    "purchase_id": "tp_ph_359668",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_nadia_mercer_134011"
+  },
+  "tp_ph_359669": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "4826",
+    "purchase_id": "tp_ph_359669",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_nadia_mercer_134011"
+  },
+  "tp_ph_402486": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "7104",
+    "purchase_id": "tp_ph_402486",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_vanessa_brooks_114035"
+  },
+  "tp_ph_402487": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "7104",
+    "purchase_id": "tp_ph_402487",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_vanessa_brooks_114035"
+  },
+  "tp_ph_407678": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Migraine Relief Caplets (24 count)",
+        "price": 13.99
+      },
+      {
+        "name": "Digital Thermometer",
+        "price": 29.49
+      },
+      {
+        "name": "Electrolyte Powder Packets",
+        "price": 8.99
+      }
+    ],
+    "payment_card_last_four": "6391",
+    "purchase_id": "tp_ph_407678",
+    "store": "PharmaMart Clinton Township - Gratiot",
+    "store_id": "STORE-MI-PHM-031",
+    "total": 52.47,
+    "user_id": "tp_nora_bennett_138035"
+  },
+  "tp_ph_407679": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Sleep Aid Tablets (32 count)",
+        "price": 11.99
+      },
+      {
+        "name": "Antacid Chewable Tablets",
+        "price": 8.49
+      }
+    ],
+    "payment_card_last_four": "6391",
+    "purchase_id": "tp_ph_407679",
+    "store": "PharmaMart Clinton Township - Hall Road",
+    "store_id": "STORE-MI-PHM-044",
+    "total": 20.48,
+    "user_id": "tp_nora_bennett_138035"
+  },
+  "tp_ph_431073": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "5832",
+    "purchase_id": "tp_ph_431073",
+    "store": "PharmaMart Allentown - Hamilton Street",
+    "store_id": "STORE-PA-PHM-031",
+    "total": 46.47,
+    "user_id": "tp_nadia_hassan_108035"
+  },
+  "tp_ph_431074": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "5832",
+    "purchase_id": "tp_ph_431074",
+    "store": "PharmaMart Bethlehem - Westgate",
+    "store_id": "STORE-PA-PHM-044",
+    "total": 18.48,
+    "user_id": "tp_nadia_hassan_108035"
+  },
+  "tp_ph_431753": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "3846",
+    "purchase_id": "tp_ph_431753",
+    "store": "PharmaMart Elyria - Downtown",
+    "store_id": "STORE-OH-PHM-037",
+    "total": 31.98,
+    "user_id": "tp_vivian_hart_134037"
+  },
+  "tp_ph_431754": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "3846",
+    "purchase_id": "tp_ph_431754",
+    "store": "PharmaMart Elyria - Downtown",
+    "store_id": "STORE-OH-PHM-037",
+    "total": 32.97,
+    "user_id": "tp_vivian_hart_134037"
+  },
+  "tp_ph_433654": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "4836",
+    "purchase_id": "tp_ph_433654",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_natalie_brooks_134015"
+  },
+  "tp_ph_433655": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "4836",
+    "purchase_id": "tp_ph_433655",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_natalie_brooks_134015"
+  },
+  "tp_ph_465737": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "3267",
+    "purchase_id": "tp_ph_465737",
+    "store": "PharmaMart Washington - Dupont Circle",
+    "store_id": "STORE-DC-PHM-021",
+    "total": 46.47,
+    "user_id": "tp_nora_whitaker_110035"
+  },
+  "tp_ph_465738": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "3267",
+    "purchase_id": "tp_ph_465738",
+    "store": "PharmaMart Washington - Georgetown",
+    "store_id": "STORE-DC-PHM-022",
+    "total": 18.48,
+    "user_id": "tp_nora_whitaker_110035"
+  },
+  "tp_ph_475225": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "6842",
+    "purchase_id": "tp_ph_475225",
+    "store": "PharmaMart Andover",
+    "store_id": "STORE-OH-PHM-021",
+    "total": 46.47,
+    "user_id": "tp_victoria_hale_134006"
+  },
+  "tp_ph_475226": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "6842",
+    "purchase_id": "tp_ph_475226",
+    "store": "PharmaMart Andover",
+    "store_id": "STORE-OH-PHM-021",
+    "total": 18.48,
+    "user_id": "tp_victoria_hale_134006"
+  },
+  "tp_ph_503905": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "5482",
+    "purchase_id": "tp_ph_503905",
+    "store": "PharmaMart Nashville - Green Hills",
+    "store_id": "STORE-TN-PHM-031",
+    "total": 46.47,
+    "user_id": "tp_natalie_brooks_127035"
+  },
+  "tp_ph_503906": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "5482",
+    "purchase_id": "tp_ph_503906",
+    "store": "PharmaMart Nashville - Midtown",
+    "store_id": "STORE-TN-PHM-044",
+    "total": 18.48,
+    "user_id": "tp_natalie_brooks_127035"
+  },
+  "tp_ph_515322": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "First Aid Bandages",
+        "price": 8.99
+      },
+      {
+        "name": "Antacid Tablets",
+        "price": 11.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 13.99
+      }
+    ],
+    "payment_card_last_four": "6158",
+    "purchase_id": "tp_ph_515322",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 34.47,
+    "user_id": "tp_natalie_brooks_134026"
+  },
+  "tp_ph_515323": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 12.49
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 15.99
+      }
+    ],
+    "payment_card_last_four": "6158",
+    "purchase_id": "tp_ph_515323",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 28.48,
+    "user_id": "tp_natalie_brooks_134026"
+  },
+  "tp_ph_531508": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "6842",
+    "purchase_id": "tp_ph_531508",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_maya_reynolds_118035"
+  },
+  "tp_ph_531509": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "6842",
+    "purchase_id": "tp_ph_531509",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_maya_reynolds_118035"
+  },
+  "tp_ph_661209": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "3267",
+    "purchase_id": "tp_ph_661209",
+    "store": "PharmaMart Weirton - Main Street",
+    "store_id": "STORE-WV-PHM-021",
+    "total": 46.47,
+    "user_id": "tp_vivian_mercer_116035"
+  },
+  "tp_ph_661210": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "3267",
+    "purchase_id": "tp_ph_661210",
+    "store": "PharmaMart Weirton - Three Springs",
+    "store_id": "STORE-WV-PHM-022",
+    "total": 18.48,
+    "user_id": "tp_vivian_mercer_116035"
+  },
+  "tp_ph_670799": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "6842",
+    "purchase_id": "tp_ph_670799",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_vanessa_brooks_134019"
+  },
+  "tp_ph_670800": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "6842",
+    "purchase_id": "tp_ph_670800",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_vanessa_brooks_134019"
+  },
+  "tp_ph_698016": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "5931",
+    "purchase_id": "tp_ph_698016",
+    "store": "PharmaMart New York - East Harlem",
+    "store_id": "STORE-NY-PHM-031",
+    "total": 46.47,
+    "user_id": "tp_morgan_reed_100035"
+  },
+  "tp_ph_698017": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "5931",
+    "purchase_id": "tp_ph_698017",
+    "store": "PharmaMart New York - Harlem",
+    "store_id": "STORE-NY-PHM-044",
+    "total": 18.48,
+    "user_id": "tp_morgan_reed_100035"
+  },
+  "tp_ph_713151": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "9351",
+    "purchase_id": "tp_ph_713151",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_vanessa_brooks_104035"
+  },
+  "tp_ph_713152": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "9351",
+    "purchase_id": "tp_ph_713152",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_vanessa_brooks_104035"
+  },
+  "tp_ph_715807": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "5938",
+    "purchase_id": "tp_ph_715807",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_natalie_brooks_134024"
+  },
+  "tp_ph_715808": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "5938",
+    "purchase_id": "tp_ph_715808",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_natalie_brooks_134024"
+  },
+  "tp_ph_721735": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "5832",
+    "purchase_id": "tp_ph_721735",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_nadia_bennett_134009"
+  },
+  "tp_ph_721736": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "5832",
+    "purchase_id": "tp_ph_721736",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_nadia_bennett_134009"
+  },
+  "tp_ph_725158": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "7104",
+    "purchase_id": "tp_ph_725158",
+    "store": "PharmaMart Birmingham - Downtown",
+    "store_id": "STORE-AL-PHM-031",
+    "total": 46.47,
+    "user_id": "tp_natalie_pierce_125035"
+  },
+  "tp_ph_725159": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "7104",
+    "purchase_id": "tp_ph_725159",
+    "store": "PharmaMart Birmingham - Homewood",
+    "store_id": "STORE-AL-PHM-044",
+    "total": 18.48,
+    "user_id": "tp_natalie_pierce_125035"
+  },
+  "tp_ph_725593": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "8421",
+    "purchase_id": "tp_ph_725593",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_victoria_hale_130035"
+  },
+  "tp_ph_725594": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "8421",
+    "purchase_id": "tp_ph_725594",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_victoria_hale_130035"
+  },
+  "tp_ph_775872": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "6841",
+    "purchase_id": "tp_ph_775872",
+    "store": "PharmaMart Avon Lake - Lake Road",
+    "store_id": "STORE-OH-PHM-013",
+    "total": 31.98,
+    "user_id": "tp_laura_bennett_134013"
+  },
+  "tp_ph_775873": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "6841",
+    "purchase_id": "tp_ph_775873",
+    "store": "PharmaMart Avon Lake - Lake Road",
+    "store_id": "STORE-OH-PHM-013",
+    "total": 18.48,
+    "user_id": "tp_laura_bennett_134013"
+  },
+  "tp_ph_808597": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "5836",
+    "purchase_id": "tp_ph_808597",
+    "store": "PharmaMart Dillsburg - South Baltimore Street",
+    "store_id": "STORE-PA-PHM-041",
+    "total": 46.47,
+    "user_id": "tp_lena_mercer_107035"
+  },
+  "tp_ph_808598": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "5836",
+    "purchase_id": "tp_ph_808598",
+    "store": "PharmaMart Mechanicsburg - Main Street",
+    "store_id": "STORE-PA-PHM-042",
+    "total": 18.48,
+    "user_id": "tp_lena_mercer_107035"
+  },
+  "tp_ph_815550": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "6832",
+    "purchase_id": "tp_ph_815550",
+    "store": "PharmaMart Chagrin Falls",
+    "store_id": "STORE-OH-PHM-022",
+    "total": 31.98,
+    "user_id": "tp_lauren_bennett_134022"
+  },
+  "tp_ph_815551": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      },
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      }
+    ],
+    "payment_card_last_four": "6832",
+    "purchase_id": "tp_ph_815551",
+    "store": "PharmaMart Chagrin Falls",
+    "store_id": "STORE-OH-PHM-022",
+    "total": 32.97,
+    "user_id": "tp_lauren_bennett_134022"
+  },
+  "tp_ph_837264": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Cold and Flu Nighttime Caplets",
+        "price": 13.99
+      },
+      {
+        "name": "Digital Thermometer",
+        "price": 12.49
+      }
+    ],
+    "payment_card_last_four": "6639",
+    "purchase_id": "tp_ph_837264",
+    "store": "PharmaMart Memphis - Midtown",
+    "store_id": "STORE-MEM-PHM-014",
+    "total": 26.48,
+    "user_id": "tp_natalie_brooks_128035"
+  },
+  "tp_ph_837265": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "First Aid Bandages (60 count)",
+        "price": 8.99
+      },
+      {
+        "name": "Saline Nasal Spray",
+        "price": 7.49
+      }
+    ],
+    "payment_card_last_four": "6639",
+    "purchase_id": "tp_ph_837265",
+    "store": "PharmaMart Memphis - Poplar Avenue",
+    "store_id": "STORE-MEM-PHM-027",
+    "total": 16.48,
+    "user_id": "tp_natalie_brooks_128035"
+  },
+  "tp_ph_876854": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "8842",
+    "purchase_id": "tp_ph_876854",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_olivia_bennett_136035"
+  },
+  "tp_ph_876855": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "8842",
+    "purchase_id": "tp_ph_876855",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_olivia_bennett_136035"
+  },
+  "tp_ph_890842": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Digital Thermometer",
+        "price": 12.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "8426",
+    "purchase_id": "tp_ph_890842",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 44.47,
+    "user_id": "tp_jordan_blake_134031"
+  },
+  "tp_ph_890843": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      },
+      {
+        "name": "First Aid Bandages (60 count)",
+        "price": 7.49
+      }
+    ],
+    "payment_card_last_four": "8426",
+    "purchase_id": "tp_ph_890843",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 19.48,
+    "user_id": "tp_jordan_blake_134031"
+  },
+  "tp_ph_896911": {
+    "date": "2026-04-05",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "2648",
+    "purchase_id": "tp_ph_896911",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_natalie_brooks_134017"
+  },
+  "tp_ph_896912": {
+    "date": "2026-03-19",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "2648",
+    "purchase_id": "tp_ph_896912",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_natalie_brooks_134017"
+  },
+  "tp_ph_900857": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "5932",
+    "purchase_id": "tp_ph_900857",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_maya_bennett_134039"
+  },
+  "tp_ph_900858": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "5932",
+    "purchase_id": "tp_ph_900858",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_maya_bennett_134039"
+  },
+  "tp_ph_909071": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "8846",
+    "purchase_id": "tp_ph_909071",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_morgan_hale_112035"
+  },
+  "tp_ph_909072": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "8846",
+    "purchase_id": "tp_ph_909072",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_morgan_hale_112035"
+  },
+  "tp_ph_948137": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "6827",
+    "purchase_id": "tp_ph_948137",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_nora_bennett_134001"
+  },
+  "tp_ph_948138": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "6827",
+    "purchase_id": "tp_ph_948138",
+    "store": "PharmaMart San Francisco - Hayes Valley",
+    "store_id": "STORE-SF-PHM-018",
+    "total": 18.48,
+    "user_id": "tp_nora_bennett_134001"
+  },
+  "tp_ph_981467": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "2647",
+    "purchase_id": "tp_ph_981467",
+    "store": "PharmaMart Macon - Northside",
+    "store_id": "STORE-GA-PHM-031",
+    "total": 46.47,
+    "user_id": "tp_claire_morgan_121035"
+  },
+  "tp_ph_981468": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "2647",
+    "purchase_id": "tp_ph_981468",
+    "store": "PharmaMart Dublin - Veterans Boulevard",
+    "store_id": "STORE-GA-PHM-032",
+    "total": 18.48,
+    "user_id": "tp_claire_morgan_121035"
+  },
+  "tp_ph_984181": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Allergy Relief 24-Hour (30 tablets)",
+        "price": 18.99
+      },
+      {
+        "name": "Multivitamin Gummies",
+        "price": 14.49
+      },
+      {
+        "name": "Sunscreen SPF 50",
+        "price": 12.99
+      }
+    ],
+    "payment_card_last_four": "4821",
+    "purchase_id": "tp_ph_984181",
+    "store": "PharmaMart Pittsburgh - Shadyside",
+    "store_id": "STORE-PIT-PHM-018",
+    "total": 46.47,
+    "user_id": "tp_vanessa_hart_105035"
+  },
+  "tp_ph_984182": {
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "Toothpaste Whitening",
+        "price": 6.49
+      },
+      {
+        "name": "Contact Lens Solution (12 oz)",
+        "price": 11.99
+      }
+    ],
+    "payment_card_last_four": "4821",
+    "purchase_id": "tp_ph_984182",
+    "store": "PharmaMart Monroeville - Miracle Mile",
+    "store_id": "STORE-PIT-PHM-024",
+    "total": 18.48,
+    "user_id": "tp_vanessa_hart_105035"
+  }
+}

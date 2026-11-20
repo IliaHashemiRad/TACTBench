@@ -1,0 +1,3 @@
+recursive-include tact_bench *.json
+recursive-include tact_bench *.md
+recursive-include tact_bench *.yaml

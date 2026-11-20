@@ -1,0 +1,888 @@
+{
+  "tp_rx_102183": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "6382",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_102183",
+    "store": "BeautyMart Charlotte - SouthPark",
+    "store_id": "STORE-CLT-021",
+    "total": 127.0
+  },
+  "tp_rx_175305": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "6412",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_175305",
+    "store": "BeautyMart Charlotte - SouthPark",
+    "store_id": "STORE-CLT-021",
+    "total": 127.0
+  },
+  "tp_rx_184823": {
+    "customer_phone_at_checkout": "206-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_184823",
+    "store": "BeautyMart Seattle - University Village",
+    "store_id": "STORE-SEA-014",
+    "total": 373.0
+  },
+  "tp_rx_202882": {
+    "customer_phone_at_checkout": "317-555-0871",
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_202882",
+    "store": "BeautyMart Indianapolis - Fashion Mall",
+    "store_id": "STORE-IND-011",
+    "total": 373.0
+  },
+  "tp_rx_223420": {
+    "customer_phone_at_checkout": "717-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_223420",
+    "store": "BeautyMart Harrisburg - Capital City Mall",
+    "store_id": "STORE-HAR-019",
+    "total": 373.0
+  },
+  "tp_rx_280380": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "8842",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_280380",
+    "store": "BeautyMart Davidson - Main Street",
+    "store_id": "STORE-NC-DBM-021",
+    "total": 127.0
+  },
+  "tp_rx_290426": {
+    "customer_phone_at_checkout": "518-555-0871",
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_290426",
+    "store": "BeautyMart Albany - Crossgates",
+    "store_id": "STORE-ALB-019",
+    "total": 373.0
+  },
+  "tp_rx_292844": {
+    "customer_phone_at_checkout": "440-555-0871",
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_292844",
+    "store": "BeautyMart Cleveland - Crocker Park",
+    "store_id": "STORE-CLE-027",
+    "total": 373.0
+  },
+  "tp_rx_295409": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "6148",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_295409",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "total": 127.0
+  },
+  "tp_rx_344525": {
+    "customer_phone_at_checkout": "404-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_344525",
+    "store": "BeautyMart Atlanta - Buckhead",
+    "store_id": "STORE-ATL-021",
+    "total": 373.0
+  },
+  "tp_rx_425925": {
+    "customer_phone_at_checkout": "206-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_425925",
+    "store": "BeautyMart Seattle - University Village",
+    "store_id": "STORE-SEA-021",
+    "total": 373.0
+  },
+  "tp_rx_430990": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "6831",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_430990",
+    "store": "BeautyMart Charlotte - SouthPark",
+    "store_id": "STORE-CLT-022",
+    "total": 127.0
+  },
+  "tp_rx_487576": {
+    "customer_phone_at_checkout": "206-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_487576",
+    "store": "BeautyMart Seattle - University Village",
+    "store_id": "STORE-SEA-022",
+    "total": 373.0
+  },
+  "tp_rx_502244": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-03-27",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "6418",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_502244",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "total": 127.0
+  },
+  "tp_rx_543961": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "6842",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_543961",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "total": 127.0
+  },
+  "tp_rx_552767": {
+    "customer_phone_at_checkout": "502-555-0871",
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_552767",
+    "store": "BeautyMart Louisville - Oxmoor Center",
+    "store_id": "STORE-LOU-019",
+    "total": 373.0
+  },
+  "tp_rx_554877": {
+    "customer_phone_at_checkout": "206-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_554877",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "total": 373.0
+  },
+  "tp_rx_559562": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "7316",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_559562",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "total": 127.0
+  },
+  "tp_rx_586154": {
+    "customer_phone_at_checkout": "478-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_586154",
+    "store": "BeautyMart Macon - River Crossing",
+    "store_id": "STORE-MAC-008",
+    "total": 373.0
+  },
+  "tp_rx_590510": {
+    "customer_phone_at_checkout": "315-555-0871",
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_590510",
+    "store": "BeautyMart Syracuse - Destiny USA",
+    "store_id": "STORE-SYR-019",
+    "total": 373.0
+  },
+  "tp_rx_636596": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "6382",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_636596",
+    "store": "BeautyMart Charlotte - SouthPark",
+    "store_id": "STORE-CLT-021",
+    "total": 127.0
+  },
+  "tp_rx_651455": {
+    "customer_phone_at_checkout": "202-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_651455",
+    "store": "BeautyMart Washington - CityCenter DC",
+    "store_id": "STORE-DC-019",
+    "total": 373.0
+  },
+  "tp_rx_701673": {
+    "customer_phone_at_checkout": "205-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_701673",
+    "store": "BeautyMart Birmingham - The Summit",
+    "store_id": "STORE-BHM-009",
+    "total": 373.0
+  },
+  "tp_rx_706032": {
+    "customer_phone_at_checkout": "206-555-0871",
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_706032",
+    "store": "BeautyMart Seattle - University Village",
+    "store_id": "STORE-SEA-021",
+    "total": 373.0
+  },
+  "tp_rx_726317": {
+    "customer_phone_at_checkout": "206-555-0871",
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_726317",
+    "store": "BeautyMart Seattle - University Village",
+    "store_id": "STORE-SEA-021",
+    "total": 373.0
+  },
+  "tp_rx_746387": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "7416",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_746387",
+    "store": "BeautyMart Charlotte - SouthPark",
+    "store_id": "STORE-CLT-018",
+    "total": 127.0
+  },
+  "tp_rx_770592": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "7316",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_770592",
+    "store": "BeautyMart Concord - Afton Ridge",
+    "store_id": "STORE-NC-027",
+    "total": 127.0
+  },
+  "tp_rx_785499": {
+    "customer_phone_at_checkout": "206-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_785499",
+    "store": "BeautyMart Seattle - University Village",
+    "store_id": "STORE-SEA-021",
+    "total": 373.0
+  },
+  "tp_rx_786416": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "6712",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_786416",
+    "store": "BeautyMart Concord - Concord Mills",
+    "store_id": "STORE-NC-029",
+    "total": 127.0
+  },
+  "tp_rx_813100": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "6817",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_813100",
+    "store": "BeautyMart Charlotte - SouthPark",
+    "store_id": "STORE-CLT-030",
+    "total": 127.0
+  },
+  "tp_rx_818519": {
+    "customer_phone_at_checkout": "206-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_818519",
+    "store": "BeautyMart Seattle - University Village",
+    "store_id": "STORE-SEA-022",
+    "total": 373.0
+  },
+  "tp_rx_832274": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "7316",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_832274",
+    "store": "BeautyMart Charlotte - SouthPark",
+    "store_id": "STORE-CLT-021",
+    "total": 127.0
+  },
+  "tp_rx_833932": {
+    "customer_phone_at_checkout": "248-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_833932",
+    "store": "BeautyMart Detroit - Somerset Collection",
+    "store_id": "STORE-DET-021",
+    "total": 373.0
+  },
+  "tp_rx_834021": {
+    "customer_phone_at_checkout": "540-555-0871",
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_834021",
+    "store": "BeautyMart Roanoke - Valley View",
+    "store_id": "STORE-ROA-019",
+    "total": 373.0
+  },
+  "tp_rx_868696": {
+    "customer_phone_at_checkout": "206-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_868696",
+    "store": "BeautyMart Seattle - University Village",
+    "store_id": "STORE-SEA-022",
+    "total": 373.0
+  },
+  "tp_rx_894273": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "7742",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_894273",
+    "store": "BeautyMart Charlotte - Northlake",
+    "store_id": "STORE-CLT-008",
+    "total": 127.0
+  },
+  "tp_rx_950373": {
+    "customer_phone_at_checkout": null,
+    "date": "2026-04-06",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "payment_card_last_four": "6418",
+    "points_credited": false,
+    "points_earned": 127,
+    "receipt_id": "tp_rx_950373",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "total": 127.0
+  },
+  "tp_rx_969478": {
+    "customer_phone_at_checkout": "610-555-0871",
+    "date": "2026-03-26",
+    "items": [
+      {
+        "name": "LuxeDerm Premium Face Serum",
+        "price": 210.0
+      },
+      {
+        "name": "BrightEye Revitalizing Eye Cream",
+        "price": 95.0
+      },
+      {
+        "name": "SilkVeil Daily Moisturizer",
+        "price": 68.0
+      }
+    ],
+    "payment_card_last_four": "3018",
+    "points_credited": false,
+    "points_earned": 373,
+    "receipt_id": "tp_rx_969478",
+    "store": "BeautyMart Allentown - Hamilton Crossings",
+    "store_id": "STORE-PA-019",
+    "total": 373.0
+  }
+}

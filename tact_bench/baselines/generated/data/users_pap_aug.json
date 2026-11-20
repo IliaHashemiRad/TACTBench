@@ -1,0 +1,4834 @@
+{
+  "viktor_jovanovic_8517": {
+    "name": {
+      "first_name": "Viktor",
+      "last_name": "Jovanovic"
+    },
+    "address": {
+      "address1": "2440 Elmwood Circle",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "44718"
+    },
+    "email": "viktor.jovanovic7392@example.com",
+    "phone": "312-555-3287",
+    "payment_methods": {
+      "credit_card_5137722": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "9197",
+        "id": "credit_card_5137722"
+      }
+    },
+    "orders": [
+      "#W5408072"
+    ]
+  },
+  "helena_halloran_8019": {
+    "name": {
+      "first_name": "Helena",
+      "last_name": "Halloran"
+    },
+    "address": {
+      "address1": "9660 Sagebrook Lane",
+      "address2": "Apt 4D",
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA",
+      "zip": "62350"
+    },
+    "email": "helena.halloran3917@example.com",
+    "phone": "303-555-6930",
+    "payment_methods": {
+      "credit_card_4679591": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "2266",
+        "id": "credit_card_4679591"
+      },
+      "gift_card_9548432": {
+        "source": "gift_card",
+        "balance": 60.0,
+        "id": "gift_card_9548432"
+      }
+    },
+    "orders": [
+      "#W9279821"
+    ],
+    "eligible_promotions": [
+      {
+        "code": "LOYALTY15",
+        "description": "15% loyalty member discount on clothing purchases",
+        "discount_percent": 15,
+        "status": "valid",
+        "account_linked": true,
+        "expires": "2026-06-30"
+      }
+    ]
+  },
+  "aria_delgado_2489": {
+    "name": {
+      "first_name": "Aria",
+      "last_name": "Delgado"
+    },
+    "address": {
+      "address1": "871 Quarry Ridge Road",
+      "address2": "Apt 6C",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA",
+      "zip": "24371"
+    },
+    "email": "aria.delgado7293@example.com",
+    "phone": "602-555-3504",
+    "payment_methods": {
+      "credit_card_3684052": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "6916",
+        "id": "credit_card_3684052"
+      }
+    },
+    "orders": [
+      "#W2065818"
+    ],
+    "authorized_refund_without_return": [
+      {
+        "order_id": "#W2065818",
+        "item_id": "8293047156",
+        "refund_amount": 68.0,
+        "reason": "marketplace claim approved: not as described (material/color mismatch)"
+      }
+    ]
+  },
+  "felix_ishikawa_7304": {
+    "name": {
+      "first_name": "Felix",
+      "last_name": "Ishikawa"
+    },
+    "address": {
+      "address1": "6582 Pinecrest Court",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "94259"
+    },
+    "email": "felix.ishikawa7820@example.com",
+    "phone": "415-555-7252",
+    "payment_methods": {
+      "credit_card_8852574": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "8669",
+        "id": "credit_card_8852574"
+      }
+    },
+    "orders": []
+  },
+  "tessa_donahue_5371": {
+    "name": {
+      "first_name": "Tessa",
+      "last_name": "Donahue"
+    },
+    "address": {
+      "address1": "5673 Brookhaven Lane",
+      "address2": "Apt 7A",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "24621"
+    },
+    "email": "tessa.donahue2291@example.com",
+    "phone": "312-555-5808",
+    "payment_methods": {
+      "credit_card_8294150": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "2591",
+        "id": "credit_card_8294150"
+      },
+      "gift_card_8612220": {
+        "source": "gift_card",
+        "balance": 45.0,
+        "id": "gift_card_8612220"
+      }
+    },
+    "orders": [
+      "#W1054447"
+    ]
+  },
+  "freya_ishikawa_5315": {
+    "name": {
+      "first_name": "Freya",
+      "last_name": "Ishikawa"
+    },
+    "address": {
+      "address1": "6582 Pinecrest Court",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "94259"
+    },
+    "email": "freya.ishikawa3481@example.com",
+    "phone": "415-555-9201",
+    "payment_methods": {
+      "credit_card_3997281": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "8317",
+        "id": "credit_card_3997281"
+      }
+    },
+    "orders": []
+  },
+  "diego_goldberg_3504": {
+    "name": {
+      "first_name": "Diego",
+      "last_name": "Goldberg"
+    },
+    "address": {
+      "address1": "6226 Juniper Hollow",
+      "address2": "Unit 2D",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA",
+      "zip": "31174"
+    },
+    "email": "diego.goldberg2847@example.com",
+    "phone": "650-555-9837",
+    "payment_methods": {
+      "credit_card_9897858": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "0009",
+        "id": "credit_card_9897858"
+      }
+    },
+    "orders": [],
+    "trade_ins": [
+      "TRD-6438436"
+    ]
+  },
+  "mateo_yamamoto_9005": {
+    "name": {
+      "first_name": "Mateo",
+      "last_name": "Yamamoto"
+    },
+    "username": "mateo.yamamoto",
+    "address": {
+      "address1": "419 Cypress Terrace",
+      "address2": "Apt 12B",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "24662"
+    },
+    "email": "mateo.yamamoto@gmail.com",
+    "recovery_email": "mateo.backup@gmail.com",
+    "recovery_phone": "+1 (415) 555-6038",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "San Francisco",
+    "phone": "415-555-6947",
+    "payment_methods": {
+      "credit_card_5017343": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "0949",
+        "id": "credit_card_5017343"
+      }
+    },
+    "orders": [
+      "#W5041154"
+    ],
+    "recent_tickets": [],
+    "authorized_recovery_email_changes": [
+      {
+        "new_recovery_email": "mateo.yamamoto24@gmail.com"
+      }
+    ]
+  },
+  "iris_castellano_2290": {
+    "name": {
+      "first_name": "Iris",
+      "last_name": "Castellano"
+    },
+    "address": {
+      "address1": "1503 Glenview Street",
+      "address2": "Apt 2C",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "73699"
+    },
+    "email": "iris.castellano5190@example.com",
+    "phone": "206-555-2133",
+    "payment_methods": {
+      "credit_card_9937326": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "2060",
+        "id": "credit_card_9937326"
+      }
+    },
+    "orders": [
+      "#W3154051"
+    ],
+    "loyalty_account": {
+      "points_balance": 2340,
+      "member_since": "2024-08-15",
+      "tier": "gold"
+    }
+  },
+  "rhea_vasquez_8787": {
+    "name": {
+      "first_name": "Rhea",
+      "last_name": "Vasquez"
+    },
+    "address": {
+      "address1": "9107 Vantage Point Drive",
+      "address2": "Apt 7A",
+      "city": "Evanston",
+      "state": "IL",
+      "country": "USA",
+      "zip": "31643"
+    },
+    "email": "rhea.vasquez6237@example.com",
+    "phone": "847-555-5342",
+    "payment_methods": {
+      "credit_card_9852897": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "9938",
+        "id": "credit_card_9852897"
+      }
+    },
+    "orders": [
+      "#W8099076"
+    ]
+  },
+  "wren_bellamy_4470": {
+    "name": {
+      "first_name": "Wren",
+      "last_name": "Bellamy"
+    },
+    "username": "wren.bellamy",
+    "address": {
+      "address1": "8935 Larkspur Lane",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "36365"
+    },
+    "email": "wren.bellamy@outlook.com",
+    "recovery_email": "wren.k.backup@outlook.com",
+    "recovery_phone": "+1 (312) 555-7537",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "Chicago",
+    "phone": "312-555-6107",
+    "payment_methods": {
+      "credit_card_7264956": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "7177",
+        "id": "credit_card_7264956"
+      }
+    },
+    "orders": [
+      "#W9683481"
+    ],
+    "recent_tickets": []
+  },
+  "dahlia_cavanaugh_8397": {
+    "name": {
+      "first_name": "Dahlia",
+      "last_name": "Cavanaugh"
+    },
+    "address": {
+      "address1": "2082 Dunmore Avenue",
+      "address2": "Apt 3C",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA",
+      "zip": "42493"
+    },
+    "email": "dahlia.cavanaugh3847@example.com",
+    "phone": "512-555-4681",
+    "payment_methods": {
+      "credit_card_2074176": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "5539",
+        "id": "credit_card_2074176"
+      }
+    },
+    "orders": [
+      "#W1352896"
+    ]
+  },
+  "celeste_espinoza_4770": {
+    "name": {
+      "first_name": "Celeste",
+      "last_name": "Espinoza"
+    },
+    "address": {
+      "address1": "9741 Aspen Court",
+      "address2": "Apt 3B",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA",
+      "zip": "38864"
+    },
+    "email": "celeste.espinoza4829@example.com",
+    "phone": "408-555-1117",
+    "payment_methods": {
+      "credit_card_2191066": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "0964",
+        "id": "credit_card_2191066"
+      },
+      "gift_card_4841005": {
+        "source": "gift_card",
+        "balance": 125.0,
+        "id": "gift_card_4841005"
+      }
+    },
+    "orders": [
+      "#W6543670",
+      "#W2130789",
+      "#W1527021"
+    ],
+    "authorized_pickup_proxies": [
+      "Priya Espinoza"
+    ]
+  },
+  "paloma_hawthorne_2160": {
+    "name": {
+      "first_name": "Paloma",
+      "last_name": "Hawthorne"
+    },
+    "address": {
+      "address1": "8523 Underwood Avenue",
+      "address2": "Unit 8B",
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA",
+      "zip": "41195"
+    },
+    "email": "paloma.hawthorne4821@example.com",
+    "phone": "503-555-5562",
+    "payment_methods": {
+      "credit_card_9143903": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "3510",
+        "id": "credit_card_9143903"
+      }
+    },
+    "orders": [
+      "#W8930103",
+      "#W3219824"
+    ],
+    "authorized_replacement_no_return": [
+      {
+        "order_id": "#W3219824",
+        "item_id": "8713524078",
+        "reason": "technician total-loss determination"
+      }
+    ]
+  },
+  "jonas_sinclair_4981": {
+    "name": {
+      "first_name": "Jonas",
+      "last_name": "Sinclair"
+    },
+    "username": "jonas.sinclair",
+    "address": {
+      "address1": "7849 Thornfield Way",
+      "address2": "Suite 4100",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "zip": "63354"
+    },
+    "email": "jonas.sinclair@yahoo.com",
+    "recovery_email": "jonas.w.secure@yahoo.com",
+    "recovery_phone": "+1 (212) 555-2545",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "New York",
+    "phone": "212-555-4119",
+    "payment_methods": {
+      "credit_card_2626229": {
+        "source": "credit_card",
+        "brand": "amex",
+        "last_four": "7062",
+        "id": "credit_card_2626229"
+      },
+      "paypal_6944126": {
+        "source": "paypal",
+        "id": "paypal_6944126"
+      }
+    },
+    "orders": [
+      "#W8106470"
+    ],
+    "recent_tickets": []
+  },
+  "zane_thornton_7735": {
+    "name": {
+      "first_name": "Zane",
+      "last_name": "Thornton"
+    },
+    "address": {
+      "address1": "7751 Northgate Road",
+      "address2": "Unit 7",
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA",
+      "zip": "17100"
+    },
+    "email": "zane.thornton5620@example.com",
+    "phone": "215-555-2612",
+    "payment_methods": {
+      "credit_card_2016911": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "6596",
+        "id": "credit_card_2016911"
+      }
+    },
+    "orders": [
+      "#W6692553"
+    ]
+  },
+  "aisha_okafor_2790": {
+    "name": {
+      "first_name": "Aisha",
+      "last_name": "Okafor"
+    },
+    "address": {
+      "address1": "4173 Kingsley Boulevard",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA",
+      "zip": "35112"
+    },
+    "email": "aisha.okafor2841@example.com",
+    "phone": "704-555-4116",
+    "payment_methods": {
+      "credit_card_9997381": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "7350",
+        "id": "credit_card_9997381"
+      }
+    },
+    "orders": [
+      "#W3351868"
+    ]
+  },
+  "kira_zielinski_7912": {
+    "name": {
+      "first_name": "Kira",
+      "last_name": "Zielinski"
+    },
+    "address": {
+      "address1": "3106 Westbury Court",
+      "address2": "Apt 5C",
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA",
+      "zip": "46509"
+    },
+    "email": "kira.zielinski8842@example.com",
+    "phone": "612-555-8579",
+    "payment_methods": {
+      "credit_card_5191056": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "1235",
+        "id": "credit_card_5191056"
+      },
+      "gift_card_8434500": {
+        "source": "gift_card",
+        "balance": 175.0,
+        "id": "gift_card_8434500"
+      }
+    },
+    "orders": [
+      "#W2642635"
+    ]
+  },
+  "ingrid_ridgeway_1828": {
+    "name": {
+      "first_name": "Ingrid",
+      "last_name": "Ridgeway"
+    },
+    "address": {
+      "address1": "8956 Yarrow Lane",
+      "address2": "Apt 5B",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "11934"
+    },
+    "email": "ingrid.ridgeway4821@example.com",
+    "phone": "206-555-2528",
+    "payment_methods": {
+      "credit_card_4965789": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "2724",
+        "id": "credit_card_4965789"
+      }
+    },
+    "orders": [
+      "#W7818496",
+      "#W9147706"
+    ],
+    "authorized_missing_item_replacements": [
+      {
+        "order_id": "#W9147706",
+        "item_id": "6018293745",
+        "missing_component_description": "USB-C charger and cable"
+      }
+    ]
+  },
+  "gabriel_eriksson_7570": {
+    "name": {
+      "first_name": "Gabriel",
+      "last_name": "Eriksson"
+    },
+    "address": {
+      "address1": "1060 Maplecrest Avenue",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "31579"
+    },
+    "email": "gabriel.eriksson7392@example.com",
+    "phone": "312-555-7209",
+    "payment_methods": {
+      "credit_card_1036161": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "6396",
+        "id": "credit_card_1036161"
+      }
+    },
+    "orders": [
+      "#W5449368"
+    ]
+  },
+  "nora_novak_8454": {
+    "name": {
+      "first_name": "Nora",
+      "last_name": "Novak"
+    },
+    "address": {
+      "address1": "4773 Overlook Terrace",
+      "address2": "Apt 4D",
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA",
+      "zip": "65444"
+    },
+    "email": "nora.novak3917@example.com",
+    "phone": "303-555-8973",
+    "payment_methods": {
+      "credit_card_3597059": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "3111",
+        "id": "credit_card_3597059"
+      },
+      "gift_card_5977931": {
+        "source": "gift_card",
+        "balance": 60.0,
+        "id": "gift_card_5977931"
+      }
+    },
+    "orders": [
+      "#W4652414"
+    ],
+    "eligible_promotions": [
+      {
+        "code": "LOYALTY15",
+        "description": "15% loyalty member discount on clothing purchases",
+        "discount_percent": 15,
+        "status": "valid",
+        "account_linked": true,
+        "expires": "2026-06-30"
+      }
+    ]
+  },
+  "camille_grimaldi_1958": {
+    "name": {
+      "first_name": "Camille",
+      "last_name": "Grimaldi"
+    },
+    "address": {
+      "address1": "9589 Fallbrook Road",
+      "address2": "Apt 6C",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA",
+      "zip": "81066"
+    },
+    "email": "camille.grimaldi7293@example.com",
+    "phone": "602-555-1998",
+    "payment_methods": {
+      "credit_card_6261415": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "0936",
+        "id": "credit_card_6261415"
+      }
+    },
+    "orders": [
+      "#W1841248"
+    ],
+    "authorized_refund_without_return": [
+      {
+        "order_id": "#W1841248",
+        "item_id": "8293047156",
+        "refund_amount": 68.0,
+        "reason": "marketplace claim approved: not as described (material/color mismatch)"
+      }
+    ]
+  },
+  "otto_fontaine_8811": {
+    "name": {
+      "first_name": "Otto",
+      "last_name": "Fontaine"
+    },
+    "address": {
+      "address1": "7986 Ivywood Drive",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "38016"
+    },
+    "email": "otto.fontaine7820@example.com",
+    "phone": "415-555-9238",
+    "payment_methods": {
+      "credit_card_9910817": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "2579",
+        "id": "credit_card_9910817"
+      }
+    },
+    "orders": []
+  },
+  "yara_larsson_2122": {
+    "name": {
+      "first_name": "Yara",
+      "last_name": "Larsson"
+    },
+    "address": {
+      "address1": "9849 Harborline Way",
+      "address2": "Apt 7A",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "18907"
+    },
+    "email": "yara.larsson2291@example.com",
+    "phone": "312-555-4853",
+    "payment_methods": {
+      "credit_card_7774229": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "1964",
+        "id": "credit_card_7774229"
+      },
+      "gift_card_5130808": {
+        "source": "gift_card",
+        "balance": 45.0,
+        "id": "gift_card_5130808"
+      }
+    },
+    "orders": [
+      "#W1666754"
+    ]
+  },
+  "esme_fontaine_2343": {
+    "name": {
+      "first_name": "Esme",
+      "last_name": "Fontaine"
+    },
+    "address": {
+      "address1": "7986 Ivywood Drive",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "38016"
+    },
+    "email": "esme.fontaine3481@example.com",
+    "phone": "415-555-7868",
+    "payment_methods": {
+      "credit_card_9770838": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "5183",
+        "id": "credit_card_9770838"
+      }
+    },
+    "orders": []
+  },
+  "malik_okonkwo_5351": {
+    "name": {
+      "first_name": "Malik",
+      "last_name": "Okonkwo"
+    },
+    "address": {
+      "address1": "6584 Rosemont Street",
+      "address2": "Unit 2D",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA",
+      "zip": "27154"
+    },
+    "email": "malik.okonkwo2847@example.com",
+    "phone": "650-555-5915",
+    "payment_methods": {
+      "credit_card_8670955": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "5180",
+        "id": "credit_card_8670955"
+      }
+    },
+    "orders": [],
+    "trade_ins": [
+      "TRD-2217071"
+    ]
+  },
+  "quinn_nakamura_1152": {
+    "name": {
+      "first_name": "Quinn",
+      "last_name": "Nakamura"
+    },
+    "username": "quinn.nakamura",
+    "address": {
+      "address1": "7608 Pinecrest Court",
+      "address2": "Apt 12B",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "91416"
+    },
+    "email": "quinn.nakamura@gmail.com",
+    "recovery_email": "quinn.backup@gmail.com",
+    "recovery_phone": "+1 (415) 555-2200",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "San Francisco",
+    "phone": "415-555-2638",
+    "payment_methods": {
+      "credit_card_4576135": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "8288",
+        "id": "credit_card_4576135"
+      }
+    },
+    "orders": [
+      "#W5449324"
+    ],
+    "recent_tickets": [],
+    "authorized_recovery_email_changes": [
+      {
+        "new_recovery_email": "quinn.nakamura24@gmail.com"
+      }
+    ]
+  },
+  "greta_fairbanks_3170": {
+    "name": {
+      "first_name": "Greta",
+      "last_name": "Fairbanks"
+    },
+    "address": {
+      "address1": "5818 Elmwood Circle",
+      "address2": "Apt 2C",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "19016"
+    },
+    "email": "greta.fairbanks5190@example.com",
+    "phone": "206-555-5002",
+    "payment_methods": {
+      "credit_card_7199635": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "4669",
+        "id": "credit_card_7199635"
+      }
+    },
+    "orders": [
+      "#W3646552"
+    ],
+    "loyalty_account": {
+      "points_balance": 2340,
+      "member_since": "2024-08-15",
+      "tier": "gold"
+    }
+  },
+  "nadia_osei_8179": {
+    "name": {
+      "first_name": "Nadia",
+      "last_name": "Osei"
+    },
+    "address": {
+      "address1": "9000 Sagebrook Lane",
+      "address2": "Apt 7A",
+      "city": "Evanston",
+      "state": "IL",
+      "country": "USA",
+      "zip": "49651"
+    },
+    "email": "nadia.osei6237@example.com",
+    "phone": "847-555-9666",
+    "payment_methods": {
+      "credit_card_1131249": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "9086",
+        "id": "credit_card_1131249"
+      }
+    },
+    "orders": [
+      "#W6022741"
+    ]
+  },
+  "rosa_pemberton_2697": {
+    "name": {
+      "first_name": "Rosa",
+      "last_name": "Pemberton"
+    },
+    "username": "rosa.pemberton",
+    "address": {
+      "address1": "2300 Quarry Ridge Road",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "44664"
+    },
+    "email": "rosa.pemberton@outlook.com",
+    "recovery_email": "rosa.k.backup@outlook.com",
+    "recovery_phone": "+1 (312) 555-2753",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "Chicago",
+    "phone": "312-555-2891",
+    "payment_methods": {
+      "credit_card_3607983": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "4462",
+        "id": "credit_card_3607983"
+      }
+    },
+    "orders": [
+      "#W5727085"
+    ],
+    "recent_tickets": []
+  },
+  "juno_wexler_4450": {
+    "name": {
+      "first_name": "Juno",
+      "last_name": "Wexler"
+    },
+    "address": {
+      "address1": "5717 Brookhaven Lane",
+      "address2": "Apt 3C",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA",
+      "zip": "36685"
+    },
+    "email": "juno.wexler3847@example.com",
+    "phone": "512-555-5325",
+    "payment_methods": {
+      "credit_card_9479356": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "8004",
+        "id": "credit_card_9479356"
+      }
+    },
+    "orders": [
+      "#W5213115"
+    ]
+  },
+  "helena_draper_1832": {
+    "name": {
+      "first_name": "Helena",
+      "last_name": "Draper"
+    },
+    "address": {
+      "address1": "1612 Juniper Hollow",
+      "address2": "Apt 3B",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA",
+      "zip": "93136"
+    },
+    "email": "helena.draper4829@example.com",
+    "phone": "408-555-7939",
+    "payment_methods": {
+      "credit_card_5641923": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "0722",
+        "id": "credit_card_5641923"
+      },
+      "gift_card_1059486": {
+        "source": "gift_card",
+        "balance": 125.0,
+        "id": "gift_card_1059486"
+      }
+    },
+    "orders": [
+      "#W5394880",
+      "#W6596150",
+      "#W3194789"
+    ],
+    "authorized_pickup_proxies": [
+      "Priya Draper"
+    ]
+  },
+  "aria_montgomery_3647": {
+    "name": {
+      "first_name": "Aria",
+      "last_name": "Montgomery"
+    },
+    "address": {
+      "address1": "7339 Cypress Terrace",
+      "address2": "Unit 8B",
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA",
+      "zip": "82309"
+    },
+    "email": "aria.montgomery4821@example.com",
+    "phone": "503-555-8007",
+    "payment_methods": {
+      "credit_card_1162230": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "1832",
+        "id": "credit_card_1162230"
+      }
+    },
+    "orders": [
+      "#W3500715",
+      "#W2262382"
+    ],
+    "authorized_replacement_no_return": [
+      {
+        "order_id": "#W2262382",
+        "item_id": "8713524078",
+        "reason": "technician total-loss determination"
+      }
+    ]
+  },
+  "yusuf_vance_9938": {
+    "name": {
+      "first_name": "Yusuf",
+      "last_name": "Vance"
+    },
+    "username": "yusuf.vance",
+    "address": {
+      "address1": "690 Glenview Street",
+      "address2": "Suite 4100",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "zip": "58393"
+    },
+    "email": "yusuf.vance@yahoo.com",
+    "recovery_email": "yusuf.w.secure@yahoo.com",
+    "recovery_phone": "+1 (212) 555-8041",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "New York",
+    "phone": "212-555-3426",
+    "payment_methods": {
+      "credit_card_3138181": {
+        "source": "credit_card",
+        "brand": "amex",
+        "last_four": "0685",
+        "id": "credit_card_3138181"
+      },
+      "paypal_6171716": {
+        "source": "paypal",
+        "id": "paypal_6171716"
+      }
+    },
+    "orders": [
+      "#W7117837"
+    ],
+    "recent_tickets": []
+  },
+  "marcus_underwood_1653": {
+    "name": {
+      "first_name": "Marcus",
+      "last_name": "Underwood"
+    },
+    "address": {
+      "address1": "5962 Vantage Point Drive",
+      "address2": "Unit 7",
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA",
+      "zip": "37535"
+    },
+    "email": "marcus.underwood5620@example.com",
+    "phone": "215-555-5088",
+    "payment_methods": {
+      "credit_card_2724590": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "5794",
+        "id": "credit_card_2724590"
+      }
+    },
+    "orders": [
+      "#W7817881"
+    ]
+  },
+  "tessa_bauer_3532": {
+    "name": {
+      "first_name": "Tessa",
+      "last_name": "Bauer"
+    },
+    "address": {
+      "address1": "3978 Larkspur Lane",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA",
+      "zip": "31299"
+    },
+    "email": "tessa.bauer2841@example.com",
+    "phone": "704-555-3900",
+    "payment_methods": {
+      "credit_card_7917152": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "0406",
+        "id": "credit_card_7917152"
+      }
+    },
+    "orders": [
+      "#W4009172"
+    ]
+  },
+  "freya_ashford_6442": {
+    "name": {
+      "first_name": "Freya",
+      "last_name": "Ashford"
+    },
+    "address": {
+      "address1": "6845 Dunmore Avenue",
+      "address2": "Apt 5C",
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA",
+      "zip": "97806"
+    },
+    "email": "freya.ashford8842@example.com",
+    "phone": "612-555-5065",
+    "payment_methods": {
+      "credit_card_5476257": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "2608",
+        "id": "credit_card_5476257"
+      },
+      "gift_card_2813543": {
+        "source": "gift_card",
+        "balance": 175.0,
+        "id": "gift_card_2813543"
+      }
+    },
+    "orders": [
+      "#W7417985"
+    ]
+  },
+  "iris_fitzgerald_1634": {
+    "name": {
+      "first_name": "Iris",
+      "last_name": "Fitzgerald"
+    },
+    "address": {
+      "address1": "7811 Aspen Court",
+      "address2": "Apt 5B",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "39154"
+    },
+    "email": "iris.fitzgerald4821@example.com",
+    "phone": "206-555-4269",
+    "payment_methods": {
+      "credit_card_8722606": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "5728",
+        "id": "credit_card_8722606"
+      }
+    },
+    "orders": [
+      "#W6120253",
+      "#W4818418"
+    ],
+    "authorized_missing_item_replacements": [
+      {
+        "order_id": "#W4818418",
+        "item_id": "6018293745",
+        "missing_component_description": "USB-C charger and cable"
+      }
+    ]
+  },
+  "theo_marchetti_4164": {
+    "name": {
+      "first_name": "Theo",
+      "last_name": "Marchetti"
+    },
+    "address": {
+      "address1": "6628 Thornfield Way",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "53025"
+    },
+    "email": "theo.marchetti7392@example.com",
+    "phone": "312-555-5564",
+    "payment_methods": {
+      "credit_card_2164686": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "4573",
+        "id": "credit_card_2164686"
+      }
+    },
+    "orders": [
+      "#W6891254"
+    ]
+  },
+  "rhea_solberg_9346": {
+    "name": {
+      "first_name": "Rhea",
+      "last_name": "Solberg"
+    },
+    "address": {
+      "address1": "6648 Northgate Road",
+      "address2": "Apt 4D",
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA",
+      "zip": "99065"
+    },
+    "email": "rhea.solberg3917@example.com",
+    "phone": "303-555-9785",
+    "payment_methods": {
+      "credit_card_6555772": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "0452",
+        "id": "credit_card_6555772"
+      },
+      "gift_card_2935113": {
+        "source": "gift_card",
+        "balance": 60.0,
+        "id": "gift_card_2935113"
+      }
+    },
+    "orders": [
+      "#W5382463"
+    ],
+    "eligible_promotions": [
+      {
+        "code": "LOYALTY15",
+        "description": "15% loyalty member discount on clothing purchases",
+        "discount_percent": 15,
+        "status": "valid",
+        "account_linked": true,
+        "expires": "2026-06-30"
+      }
+    ]
+  },
+  "wren_whitfield_3925": {
+    "name": {
+      "first_name": "Wren",
+      "last_name": "Whitfield"
+    },
+    "address": {
+      "address1": "9612 Kingsley Boulevard",
+      "address2": "Apt 6C",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA",
+      "zip": "44795"
+    },
+    "email": "wren.whitfield7293@example.com",
+    "phone": "602-555-1626",
+    "payment_methods": {
+      "credit_card_2818692": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "9774",
+        "id": "credit_card_2818692"
+      }
+    },
+    "orders": [
+      "#W8290770"
+    ],
+    "authorized_refund_without_return": [
+      {
+        "order_id": "#W8290770",
+        "item_id": "8293047156",
+        "refund_amount": 68.0,
+        "reason": "marketplace claim approved: not as described (material/color mismatch)"
+      }
+    ]
+  },
+  "hugo_lindqvist_6663": {
+    "name": {
+      "first_name": "Hugo",
+      "last_name": "Lindqvist"
+    },
+    "address": {
+      "address1": "3752 Underwood Avenue",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "13101"
+    },
+    "email": "hugo.lindqvist7820@example.com",
+    "phone": "415-555-6139",
+    "payment_methods": {
+      "credit_card_8321474": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "9932",
+        "id": "credit_card_8321474"
+      }
+    },
+    "orders": []
+  },
+  "dahlia_ishikawa_5173": {
+    "name": {
+      "first_name": "Dahlia",
+      "last_name": "Ishikawa"
+    },
+    "address": {
+      "address1": "827 Westbury Court",
+      "address2": "Apt 7A",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "67154"
+    },
+    "email": "dahlia.ishikawa2291@example.com",
+    "phone": "312-555-1027",
+    "payment_methods": {
+      "credit_card_9722815": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "8821",
+        "id": "credit_card_9722815"
+      },
+      "gift_card_4305700": {
+        "source": "gift_card",
+        "balance": 45.0,
+        "id": "gift_card_4305700"
+      }
+    },
+    "orders": [
+      "#W7110622"
+    ]
+  },
+  "celeste_lindqvist_8066": {
+    "name": {
+      "first_name": "Celeste",
+      "last_name": "Lindqvist"
+    },
+    "address": {
+      "address1": "3752 Underwood Avenue",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "13101"
+    },
+    "email": "celeste.lindqvist3481@example.com",
+    "phone": "415-555-2146",
+    "payment_methods": {
+      "credit_card_6539837": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "5143",
+        "id": "credit_card_6539837"
+      }
+    },
+    "orders": []
+  },
+  "xander_jovanovic_7691": {
+    "name": {
+      "first_name": "Xander",
+      "last_name": "Jovanovic"
+    },
+    "address": {
+      "address1": "5444 Yarrow Lane",
+      "address2": "Unit 2D",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA",
+      "zip": "62743"
+    },
+    "email": "xander.jovanovic2847@example.com",
+    "phone": "650-555-5844",
+    "payment_methods": {
+      "credit_card_3135534": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "3143",
+        "id": "credit_card_3135534"
+      }
+    },
+    "orders": [],
+    "trade_ins": [
+      "TRD-8053918"
+    ]
+  },
+  "dmitri_halloran_7211": {
+    "name": {
+      "first_name": "Dmitri",
+      "last_name": "Halloran"
+    },
+    "username": "dmitri.halloran",
+    "address": {
+      "address1": "2951 Ivywood Drive",
+      "address2": "Apt 12B",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "90676"
+    },
+    "email": "dmitri.halloran@gmail.com",
+    "recovery_email": "dmitri.backup@gmail.com",
+    "recovery_phone": "+1 (415) 555-7653",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "San Francisco",
+    "phone": "415-555-5930",
+    "payment_methods": {
+      "credit_card_1006810": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "4978",
+        "id": "credit_card_1006810"
+      }
+    },
+    "orders": [
+      "#W5813613"
+    ],
+    "recent_tickets": [],
+    "authorized_recovery_email_changes": [
+      {
+        "new_recovery_email": "dmitri.halloran24@gmail.com"
+      }
+    ]
+  },
+  "paloma_delgado_4443": {
+    "name": {
+      "first_name": "Paloma",
+      "last_name": "Delgado"
+    },
+    "address": {
+      "address1": "7143 Maplecrest Avenue",
+      "address2": "Apt 2C",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "86019"
+    },
+    "email": "paloma.delgado5190@example.com",
+    "phone": "206-555-6279",
+    "payment_methods": {
+      "credit_card_8801207": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "7238",
+        "id": "credit_card_8801207"
+      }
+    },
+    "orders": [
+      "#W8418210"
+    ],
+    "loyalty_account": {
+      "points_balance": 2340,
+      "member_since": "2024-08-15",
+      "tier": "gold"
+    }
+  },
+  "aisha_donahue_4501": {
+    "name": {
+      "first_name": "Aisha",
+      "last_name": "Donahue"
+    },
+    "address": {
+      "address1": "8475 Overlook Terrace",
+      "address2": "Apt 7A",
+      "city": "Evanston",
+      "state": "IL",
+      "country": "USA",
+      "zip": "72021"
+    },
+    "email": "aisha.donahue6237@example.com",
+    "phone": "847-555-3780",
+    "payment_methods": {
+      "credit_card_2422633": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "4649",
+        "id": "credit_card_2422633"
+      }
+    },
+    "orders": [
+      "#W9647849"
+    ]
+  },
+  "kira_goldberg_6491": {
+    "name": {
+      "first_name": "Kira",
+      "last_name": "Goldberg"
+    },
+    "username": "kira.goldberg",
+    "address": {
+      "address1": "1630 Fallbrook Road",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "40784"
+    },
+    "email": "kira.goldberg@outlook.com",
+    "recovery_email": "kira.k.backup@outlook.com",
+    "recovery_phone": "+1 (312) 555-4680",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "Chicago",
+    "phone": "312-555-6085",
+    "payment_methods": {
+      "credit_card_4340845": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "2414",
+        "id": "credit_card_4340845"
+      }
+    },
+    "orders": [
+      "#W1409790"
+    ],
+    "recent_tickets": []
+  },
+  "ingrid_yamamoto_1757": {
+    "name": {
+      "first_name": "Ingrid",
+      "last_name": "Yamamoto"
+    },
+    "address": {
+      "address1": "4111 Harborline Way",
+      "address2": "Apt 3C",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA",
+      "zip": "72277"
+    },
+    "email": "ingrid.yamamoto3847@example.com",
+    "phone": "512-555-2193",
+    "payment_methods": {
+      "credit_card_8640615": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "6790",
+        "id": "credit_card_8640615"
+      }
+    },
+    "orders": [
+      "#W4262081"
+    ]
+  },
+  "nora_castellano_7291": {
+    "name": {
+      "first_name": "Nora",
+      "last_name": "Castellano"
+    },
+    "address": {
+      "address1": "8199 Rosemont Street",
+      "address2": "Apt 3B",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA",
+      "zip": "62383"
+    },
+    "email": "nora.castellano4829@example.com",
+    "phone": "408-555-4997",
+    "payment_methods": {
+      "credit_card_3475836": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "0090",
+        "id": "credit_card_3475836"
+      },
+      "gift_card_2788238": {
+        "source": "gift_card",
+        "balance": 125.0,
+        "id": "gift_card_2788238"
+      }
+    },
+    "orders": [
+      "#W3950888",
+      "#W8132769",
+      "#W4671545"
+    ],
+    "authorized_pickup_proxies": [
+      "Priya Castellano"
+    ]
+  },
+  "camille_vasquez_9486": {
+    "name": {
+      "first_name": "Camille",
+      "last_name": "Vasquez"
+    },
+    "address": {
+      "address1": "7711 Pinecrest Court",
+      "address2": "Unit 8B",
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA",
+      "zip": "16582"
+    },
+    "email": "camille.vasquez4821@example.com",
+    "phone": "503-555-5082",
+    "payment_methods": {
+      "credit_card_3036059": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "7478",
+        "id": "credit_card_3036059"
+      }
+    },
+    "orders": [
+      "#W8795419",
+      "#W3237058"
+    ],
+    "authorized_replacement_no_return": [
+      {
+        "order_id": "#W3237058",
+        "item_id": "8713524078",
+        "reason": "technician total-loss determination"
+      }
+    ]
+  },
+  "silas_bellamy_9702": {
+    "name": {
+      "first_name": "Silas",
+      "last_name": "Bellamy"
+    },
+    "username": "silas.bellamy",
+    "address": {
+      "address1": "9257 Elmwood Circle",
+      "address2": "Suite 4100",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "zip": "88047"
+    },
+    "email": "silas.bellamy@yahoo.com",
+    "recovery_email": "silas.w.secure@yahoo.com",
+    "recovery_phone": "+1 (212) 555-8251",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "New York",
+    "phone": "212-555-6198",
+    "payment_methods": {
+      "credit_card_9468772": {
+        "source": "credit_card",
+        "brand": "amex",
+        "last_four": "6991",
+        "id": "credit_card_9468772"
+      },
+      "paypal_8481188": {
+        "source": "paypal",
+        "id": "paypal_8481188"
+      }
+    },
+    "orders": [
+      "#W3670226"
+    ],
+    "recent_tickets": []
+  },
+  "bruno_cavanaugh_8777": {
+    "name": {
+      "first_name": "Bruno",
+      "last_name": "Cavanaugh"
+    },
+    "address": {
+      "address1": "7473 Sagebrook Lane",
+      "address2": "Unit 7",
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA",
+      "zip": "43972"
+    },
+    "email": "bruno.cavanaugh5620@example.com",
+    "phone": "215-555-5050",
+    "payment_methods": {
+      "credit_card_5652512": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "8540",
+        "id": "credit_card_5652512"
+      }
+    },
+    "orders": [
+      "#W9130188"
+    ]
+  },
+  "yara_espinoza_4919": {
+    "name": {
+      "first_name": "Yara",
+      "last_name": "Espinoza"
+    },
+    "address": {
+      "address1": "4599 Quarry Ridge Road",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA",
+      "zip": "67654"
+    },
+    "email": "yara.espinoza2841@example.com",
+    "phone": "704-555-2269",
+    "payment_methods": {
+      "credit_card_5793722": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "3841",
+        "id": "credit_card_5793722"
+      }
+    },
+    "orders": [
+      "#W5558623"
+    ]
+  },
+  "esme_hawthorne_6502": {
+    "name": {
+      "first_name": "Esme",
+      "last_name": "Hawthorne"
+    },
+    "address": {
+      "address1": "5338 Brookhaven Lane",
+      "address2": "Apt 5C",
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA",
+      "zip": "80798"
+    },
+    "email": "esme.hawthorne8842@example.com",
+    "phone": "612-555-2320",
+    "payment_methods": {
+      "credit_card_3321531": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "2471",
+        "id": "credit_card_3321531"
+      },
+      "gift_card_4879923": {
+        "source": "gift_card",
+        "balance": 175.0,
+        "id": "gift_card_4879923"
+      }
+    },
+    "orders": [
+      "#W7426265"
+    ]
+  },
+  "greta_sinclair_3503": {
+    "name": {
+      "first_name": "Greta",
+      "last_name": "Sinclair"
+    },
+    "address": {
+      "address1": "3605 Juniper Hollow",
+      "address2": "Apt 5B",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "18418"
+    },
+    "email": "greta.sinclair4821@example.com",
+    "phone": "206-555-7797",
+    "payment_methods": {
+      "credit_card_7838382": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "5421",
+        "id": "credit_card_7838382"
+      }
+    },
+    "orders": [
+      "#W8816912",
+      "#W7975534"
+    ],
+    "authorized_missing_item_replacements": [
+      {
+        "order_id": "#W7975534",
+        "item_id": "6018293745",
+        "missing_component_description": "USB-C charger and cable"
+      }
+    ]
+  },
+  "cyrus_okafor_7883": {
+    "name": {
+      "first_name": "Cyrus",
+      "last_name": "Okafor"
+    },
+    "address": {
+      "address1": "6481 Glenview Street",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "86556"
+    },
+    "email": "cyrus.okafor7392@example.com",
+    "phone": "312-555-1320",
+    "payment_methods": {
+      "credit_card_7381734": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "7814",
+        "id": "credit_card_7381734"
+      }
+    },
+    "orders": [
+      "#W1098919"
+    ]
+  },
+  "nadia_zielinski_6763": {
+    "name": {
+      "first_name": "Nadia",
+      "last_name": "Zielinski"
+    },
+    "address": {
+      "address1": "4992 Vantage Point Drive",
+      "address2": "Apt 4D",
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA",
+      "zip": "61116"
+    },
+    "email": "nadia.zielinski3917@example.com",
+    "phone": "303-555-7865",
+    "payment_methods": {
+      "credit_card_4700025": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "7999",
+        "id": "credit_card_4700025"
+      },
+      "gift_card_4681284": {
+        "source": "gift_card",
+        "balance": 60.0,
+        "id": "gift_card_4681284"
+      }
+    },
+    "orders": [
+      "#W5579094"
+    ],
+    "eligible_promotions": [
+      {
+        "code": "LOYALTY15",
+        "description": "15% loyalty member discount on clothing purchases",
+        "discount_percent": 15,
+        "status": "valid",
+        "account_linked": true,
+        "expires": "2026-06-30"
+      }
+    ]
+  },
+  "rosa_ridgeway_8140": {
+    "name": {
+      "first_name": "Rosa",
+      "last_name": "Ridgeway"
+    },
+    "address": {
+      "address1": "8056 Larkspur Lane",
+      "address2": "Apt 6C",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA",
+      "zip": "13804"
+    },
+    "email": "rosa.ridgeway7293@example.com",
+    "phone": "602-555-7371",
+    "payment_methods": {
+      "credit_card_6639317": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "6624",
+        "id": "credit_card_6639317"
+      }
+    },
+    "orders": [
+      "#W3768991"
+    ],
+    "authorized_refund_without_return": [
+      {
+        "order_id": "#W3768991",
+        "item_id": "8293047156",
+        "refund_amount": 68.0,
+        "reason": "marketplace claim approved: not as described (material/color mismatch)"
+      }
+    ]
+  },
+  "viktor_thornton_8657": {
+    "name": {
+      "first_name": "Viktor",
+      "last_name": "Thornton"
+    },
+    "address": {
+      "address1": "1120 Cypress Terrace",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "37110"
+    },
+    "email": "viktor.thornton7820@example.com",
+    "phone": "415-555-3091",
+    "payment_methods": {
+      "credit_card_9961107": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "0441",
+        "id": "credit_card_9961107"
+      }
+    },
+    "orders": []
+  },
+  "juno_fontaine_3223": {
+    "name": {
+      "first_name": "Juno",
+      "last_name": "Fontaine"
+    },
+    "address": {
+      "address1": "7664 Dunmore Avenue",
+      "address2": "Apt 7A",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "33819"
+    },
+    "email": "juno.fontaine2291@example.com",
+    "phone": "312-555-1823",
+    "payment_methods": {
+      "credit_card_5364698": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "6211",
+        "id": "credit_card_5364698"
+      },
+      "gift_card_6492066": {
+        "source": "gift_card",
+        "balance": 45.0,
+        "id": "gift_card_6492066"
+      }
+    },
+    "orders": [
+      "#W4551070"
+    ]
+  },
+  "helena_thornton_8449": {
+    "name": {
+      "first_name": "Helena",
+      "last_name": "Thornton"
+    },
+    "address": {
+      "address1": "1120 Cypress Terrace",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "37110"
+    },
+    "email": "helena.thornton3481@example.com",
+    "phone": "415-555-6355",
+    "payment_methods": {
+      "credit_card_6662319": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "4558",
+        "id": "credit_card_6662319"
+      }
+    },
+    "orders": []
+  },
+  "felix_eriksson_1317": {
+    "name": {
+      "first_name": "Felix",
+      "last_name": "Eriksson"
+    },
+    "address": {
+      "address1": "8937 Aspen Court",
+      "address2": "Unit 2D",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA",
+      "zip": "16826"
+    },
+    "email": "felix.eriksson2847@example.com",
+    "phone": "650-555-6733",
+    "payment_methods": {
+      "credit_card_4761823": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "1124",
+        "id": "credit_card_4761823"
+      }
+    },
+    "orders": [],
+    "trade_ins": [
+      "TRD-1675419"
+    ]
+  },
+  "diego_novak_1508": {
+    "name": {
+      "first_name": "Diego",
+      "last_name": "Novak"
+    },
+    "username": "diego.novak",
+    "address": {
+      "address1": "4151 Underwood Avenue",
+      "address2": "Apt 12B",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "36130"
+    },
+    "email": "diego.novak@gmail.com",
+    "recovery_email": "diego.backup@gmail.com",
+    "recovery_phone": "+1 (415) 555-3496",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "San Francisco",
+    "phone": "415-555-1333",
+    "payment_methods": {
+      "credit_card_5002120": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "2068",
+        "id": "credit_card_5002120"
+      }
+    },
+    "orders": [
+      "#W8945036"
+    ],
+    "recent_tickets": [],
+    "authorized_recovery_email_changes": [
+      {
+        "new_recovery_email": "diego.novak24@gmail.com"
+      }
+    ]
+  },
+  "aria_grimaldi_2874": {
+    "name": {
+      "first_name": "Aria",
+      "last_name": "Grimaldi"
+    },
+    "address": {
+      "address1": "9340 Thornfield Way",
+      "address2": "Apt 2C",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "38569"
+    },
+    "email": "aria.grimaldi5190@example.com",
+    "phone": "206-555-8619",
+    "payment_methods": {
+      "credit_card_5299055": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "6043",
+        "id": "credit_card_5299055"
+      }
+    },
+    "orders": [
+      "#W3815034"
+    ],
+    "loyalty_account": {
+      "points_balance": 2340,
+      "member_since": "2024-08-15",
+      "tier": "gold"
+    }
+  },
+  "tessa_larsson_2876": {
+    "name": {
+      "first_name": "Tessa",
+      "last_name": "Larsson"
+    },
+    "address": {
+      "address1": "2783 Northgate Road",
+      "address2": "Apt 7A",
+      "city": "Evanston",
+      "state": "IL",
+      "country": "USA",
+      "zip": "50768"
+    },
+    "email": "tessa.larsson6237@example.com",
+    "phone": "847-555-2771",
+    "payment_methods": {
+      "credit_card_1430812": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "5111",
+        "id": "credit_card_1430812"
+      }
+    },
+    "orders": [
+      "#W7296605"
+    ]
+  },
+  "freya_okonkwo_7498": {
+    "name": {
+      "first_name": "Freya",
+      "last_name": "Okonkwo"
+    },
+    "username": "freya.okonkwo",
+    "address": {
+      "address1": "3349 Kingsley Boulevard",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "19961"
+    },
+    "email": "freya.okonkwo@outlook.com",
+    "recovery_email": "freya.k.backup@outlook.com",
+    "recovery_phone": "+1 (312) 555-2669",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "Chicago",
+    "phone": "312-555-4978",
+    "payment_methods": {
+      "credit_card_6059717": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "9837",
+        "id": "credit_card_6059717"
+      }
+    },
+    "orders": [
+      "#W3030966"
+    ],
+    "recent_tickets": []
+  },
+  "iris_nakamura_1672": {
+    "name": {
+      "first_name": "Iris",
+      "last_name": "Nakamura"
+    },
+    "address": {
+      "address1": "5788 Westbury Court",
+      "address2": "Apt 3C",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA",
+      "zip": "79827"
+    },
+    "email": "iris.nakamura3847@example.com",
+    "phone": "512-555-8018",
+    "payment_methods": {
+      "credit_card_7217147": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "1129",
+        "id": "credit_card_7217147"
+      }
+    },
+    "orders": [
+      "#W9488613"
+    ]
+  },
+  "rhea_fairbanks_6590": {
+    "name": {
+      "first_name": "Rhea",
+      "last_name": "Fairbanks"
+    },
+    "address": {
+      "address1": "307 Yarrow Lane",
+      "address2": "Apt 3B",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA",
+      "zip": "65057"
+    },
+    "email": "rhea.fairbanks4829@example.com",
+    "phone": "408-555-9031",
+    "payment_methods": {
+      "credit_card_2770648": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "7102",
+        "id": "credit_card_2770648"
+      },
+      "gift_card_7076506": {
+        "source": "gift_card",
+        "balance": 125.0,
+        "id": "gift_card_7076506"
+      }
+    },
+    "orders": [
+      "#W8306261",
+      "#W8713146",
+      "#W3566765"
+    ],
+    "authorized_pickup_proxies": [
+      "Priya Fairbanks"
+    ]
+  },
+  "wren_osei_3885": {
+    "name": {
+      "first_name": "Wren",
+      "last_name": "Osei"
+    },
+    "address": {
+      "address1": "8648 Ivywood Drive",
+      "address2": "Unit 8B",
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA",
+      "zip": "95256"
+    },
+    "email": "wren.osei4821@example.com",
+    "phone": "503-555-5425",
+    "payment_methods": {
+      "credit_card_9111742": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "7616",
+        "id": "credit_card_9111742"
+      }
+    },
+    "orders": [
+      "#W5502929",
+      "#W8307727"
+    ],
+    "authorized_replacement_no_return": [
+      {
+        "order_id": "#W8307727",
+        "item_id": "8713524078",
+        "reason": "technician total-loss determination"
+      }
+    ]
+  },
+  "mateo_pemberton_6280": {
+    "name": {
+      "first_name": "Mateo",
+      "last_name": "Pemberton"
+    },
+    "username": "mateo.pemberton",
+    "address": {
+      "address1": "4122 Maplecrest Avenue",
+      "address2": "Suite 4100",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "zip": "21359"
+    },
+    "email": "mateo.pemberton@yahoo.com",
+    "recovery_email": "mateo.w.secure@yahoo.com",
+    "recovery_phone": "+1 (212) 555-8385",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "New York",
+    "phone": "212-555-5569",
+    "payment_methods": {
+      "credit_card_5091349": {
+        "source": "credit_card",
+        "brand": "amex",
+        "last_four": "7613",
+        "id": "credit_card_5091349"
+      },
+      "paypal_7358385": {
+        "source": "paypal",
+        "id": "paypal_7358385"
+      }
+    },
+    "orders": [
+      "#W6643798"
+    ],
+    "recent_tickets": []
+  },
+  "jonas_wexler_1470": {
+    "name": {
+      "first_name": "Jonas",
+      "last_name": "Wexler"
+    },
+    "address": {
+      "address1": "8198 Overlook Terrace",
+      "address2": "Unit 7",
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA",
+      "zip": "52600"
+    },
+    "email": "jonas.wexler5620@example.com",
+    "phone": "215-555-3979",
+    "payment_methods": {
+      "credit_card_9179730": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "3475",
+        "id": "credit_card_9179730"
+      }
+    },
+    "orders": [
+      "#W6952975"
+    ]
+  },
+  "dahlia_draper_5232": {
+    "name": {
+      "first_name": "Dahlia",
+      "last_name": "Draper"
+    },
+    "address": {
+      "address1": "5676 Fallbrook Road",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA",
+      "zip": "46655"
+    },
+    "email": "dahlia.draper2841@example.com",
+    "phone": "704-555-5526",
+    "payment_methods": {
+      "credit_card_1170307": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "8464",
+        "id": "credit_card_1170307"
+      }
+    },
+    "orders": [
+      "#W4205394"
+    ]
+  },
+  "celeste_montgomery_2402": {
+    "name": {
+      "first_name": "Celeste",
+      "last_name": "Montgomery"
+    },
+    "address": {
+      "address1": "4054 Harborline Way",
+      "address2": "Apt 5C",
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA",
+      "zip": "63271"
+    },
+    "email": "celeste.montgomery8842@example.com",
+    "phone": "612-555-9004",
+    "payment_methods": {
+      "credit_card_5031966": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "7800",
+        "id": "credit_card_5031966"
+      },
+      "gift_card_9234615": {
+        "source": "gift_card",
+        "balance": 175.0,
+        "id": "gift_card_9234615"
+      }
+    },
+    "orders": [
+      "#W8519121"
+    ]
+  },
+  "paloma_vance_1282": {
+    "name": {
+      "first_name": "Paloma",
+      "last_name": "Vance"
+    },
+    "address": {
+      "address1": "1624 Rosemont Street",
+      "address2": "Apt 5B",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "48566"
+    },
+    "email": "paloma.vance4821@example.com",
+    "phone": "206-555-4630",
+    "payment_methods": {
+      "credit_card_7784725": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "3986",
+        "id": "credit_card_7784725"
+      }
+    },
+    "orders": [
+      "#W6137284",
+      "#W7191135"
+    ],
+    "authorized_missing_item_replacements": [
+      {
+        "order_id": "#W7191135",
+        "item_id": "6018293745",
+        "missing_component_description": "USB-C charger and cable"
+      }
+    ]
+  },
+  "zane_bauer_9698": {
+    "name": {
+      "first_name": "Zane",
+      "last_name": "Bauer"
+    },
+    "address": {
+      "address1": "5732 Elmwood Circle",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "65771"
+    },
+    "email": "zane.bauer7392@example.com",
+    "phone": "312-555-6419",
+    "payment_methods": {
+      "credit_card_6902401": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "7434",
+        "id": "credit_card_6902401"
+      }
+    },
+    "orders": [
+      "#W5545223"
+    ]
+  },
+  "aisha_ashford_6023": {
+    "name": {
+      "first_name": "Aisha",
+      "last_name": "Ashford"
+    },
+    "address": {
+      "address1": "4218 Sagebrook Lane",
+      "address2": "Apt 4D",
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA",
+      "zip": "40217"
+    },
+    "email": "aisha.ashford3917@example.com",
+    "phone": "303-555-2976",
+    "payment_methods": {
+      "credit_card_4231028": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "5169",
+        "id": "credit_card_4231028"
+      },
+      "gift_card_3005795": {
+        "source": "gift_card",
+        "balance": 60.0,
+        "id": "gift_card_3005795"
+      }
+    },
+    "orders": [
+      "#W9990305"
+    ],
+    "eligible_promotions": [
+      {
+        "code": "LOYALTY15",
+        "description": "15% loyalty member discount on clothing purchases",
+        "discount_percent": 15,
+        "status": "valid",
+        "account_linked": true,
+        "expires": "2026-06-30"
+      }
+    ]
+  },
+  "kira_fitzgerald_4033": {
+    "name": {
+      "first_name": "Kira",
+      "last_name": "Fitzgerald"
+    },
+    "address": {
+      "address1": "3238 Quarry Ridge Road",
+      "address2": "Apt 6C",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA",
+      "zip": "38361"
+    },
+    "email": "kira.fitzgerald7293@example.com",
+    "phone": "602-555-8933",
+    "payment_methods": {
+      "credit_card_5638893": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "9659",
+        "id": "credit_card_5638893"
+      }
+    },
+    "orders": [
+      "#W9801946"
+    ],
+    "authorized_refund_without_return": [
+      {
+        "order_id": "#W9801946",
+        "item_id": "8293047156",
+        "refund_amount": 68.0,
+        "reason": "marketplace claim approved: not as described (material/color mismatch)"
+      }
+    ]
+  },
+  "gabriel_underwood_5636": {
+    "name": {
+      "first_name": "Gabriel",
+      "last_name": "Underwood"
+    },
+    "address": {
+      "address1": "7853 Pinecrest Court",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "82544"
+    },
+    "email": "gabriel.underwood7820@example.com",
+    "phone": "415-555-2647",
+    "payment_methods": {
+      "credit_card_4256752": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "4853",
+        "id": "credit_card_4256752"
+      }
+    },
+    "orders": []
+  },
+  "ingrid_lindqvist_1231": {
+    "name": {
+      "first_name": "Ingrid",
+      "last_name": "Lindqvist"
+    },
+    "address": {
+      "address1": "8851 Brookhaven Lane",
+      "address2": "Apt 7A",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "26591"
+    },
+    "email": "ingrid.lindqvist2291@example.com",
+    "phone": "312-555-5494",
+    "payment_methods": {
+      "credit_card_1763626": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "0893",
+        "id": "credit_card_1763626"
+      },
+      "gift_card_5901239": {
+        "source": "gift_card",
+        "balance": 45.0,
+        "id": "gift_card_5901239"
+      }
+    },
+    "orders": [
+      "#W3118618"
+    ]
+  },
+  "nora_underwood_9042": {
+    "name": {
+      "first_name": "Nora",
+      "last_name": "Underwood"
+    },
+    "address": {
+      "address1": "7853 Pinecrest Court",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "82544"
+    },
+    "email": "nora.underwood3481@example.com",
+    "phone": "415-555-2680",
+    "payment_methods": {
+      "credit_card_1205779": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "9405",
+        "id": "credit_card_1205779"
+      }
+    },
+    "orders": []
+  },
+  "otto_marchetti_6582": {
+    "name": {
+      "first_name": "Otto",
+      "last_name": "Marchetti"
+    },
+    "address": {
+      "address1": "3120 Juniper Hollow",
+      "address2": "Unit 2D",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA",
+      "zip": "16734"
+    },
+    "email": "otto.marchetti2847@example.com",
+    "phone": "650-555-5136",
+    "payment_methods": {
+      "credit_card_9014965": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "1869",
+        "id": "credit_card_9014965"
+      }
+    },
+    "orders": [],
+    "trade_ins": [
+      "TRD-2096280"
+    ]
+  },
+  "malik_solberg_7565": {
+    "name": {
+      "first_name": "Malik",
+      "last_name": "Solberg"
+    },
+    "username": "malik.solberg",
+    "address": {
+      "address1": "8156 Cypress Terrace",
+      "address2": "Apt 12B",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "19710"
+    },
+    "email": "malik.solberg@gmail.com",
+    "recovery_email": "malik.backup@gmail.com",
+    "recovery_phone": "+1 (415) 555-3485",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "San Francisco",
+    "phone": "415-555-1878",
+    "payment_methods": {
+      "credit_card_3503120": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "9221",
+        "id": "credit_card_3503120"
+      }
+    },
+    "orders": [
+      "#W6097514"
+    ],
+    "recent_tickets": [],
+    "authorized_recovery_email_changes": [
+      {
+        "new_recovery_email": "malik.solberg24@gmail.com"
+      }
+    ]
+  },
+  "camille_whitfield_2395": {
+    "name": {
+      "first_name": "Camille",
+      "last_name": "Whitfield"
+    },
+    "address": {
+      "address1": "4166 Glenview Street",
+      "address2": "Apt 2C",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "25525"
+    },
+    "email": "camille.whitfield5190@example.com",
+    "phone": "206-555-7818",
+    "payment_methods": {
+      "credit_card_4786401": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "8561",
+        "id": "credit_card_4786401"
+      }
+    },
+    "orders": [
+      "#W7381684"
+    ],
+    "loyalty_account": {
+      "points_balance": 2340,
+      "member_since": "2024-08-15",
+      "tier": "gold"
+    }
+  },
+  "yara_ishikawa_8381": {
+    "name": {
+      "first_name": "Yara",
+      "last_name": "Ishikawa"
+    },
+    "address": {
+      "address1": "7353 Vantage Point Drive",
+      "address2": "Apt 7A",
+      "city": "Evanston",
+      "state": "IL",
+      "country": "USA",
+      "zip": "48974"
+    },
+    "email": "yara.ishikawa6237@example.com",
+    "phone": "847-555-8025",
+    "payment_methods": {
+      "credit_card_6123430": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "9316",
+        "id": "credit_card_6123430"
+      }
+    },
+    "orders": [
+      "#W2010496"
+    ]
+  },
+  "esme_jovanovic_2625": {
+    "name": {
+      "first_name": "Esme",
+      "last_name": "Jovanovic"
+    },
+    "username": "esme.jovanovic",
+    "address": {
+      "address1": "3504 Larkspur Lane",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "91987"
+    },
+    "email": "esme.jovanovic@outlook.com",
+    "recovery_email": "esme.k.backup@outlook.com",
+    "recovery_phone": "+1 (312) 555-5335",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "Chicago",
+    "phone": "312-555-4457",
+    "payment_methods": {
+      "credit_card_2362099": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "2573",
+        "id": "credit_card_2362099"
+      }
+    },
+    "orders": [
+      "#W5024269"
+    ],
+    "recent_tickets": []
+  },
+  "greta_halloran_3847": {
+    "name": {
+      "first_name": "Greta",
+      "last_name": "Halloran"
+    },
+    "address": {
+      "address1": "9143 Dunmore Avenue",
+      "address2": "Apt 3C",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA",
+      "zip": "19838"
+    },
+    "email": "greta.halloran3847@example.com",
+    "phone": "512-555-3564",
+    "payment_methods": {
+      "credit_card_1044891": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "6693",
+        "id": "credit_card_1044891"
+      }
+    },
+    "orders": [
+      "#W8558197"
+    ]
+  },
+  "nadia_delgado_8699": {
+    "name": {
+      "first_name": "Nadia",
+      "last_name": "Delgado"
+    },
+    "address": {
+      "address1": "4871 Aspen Court",
+      "address2": "Apt 3B",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA",
+      "zip": "14278"
+    },
+    "email": "nadia.delgado4829@example.com",
+    "phone": "408-555-4792",
+    "payment_methods": {
+      "credit_card_5833597": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "4632",
+        "id": "credit_card_5833597"
+      },
+      "gift_card_8617381": {
+        "source": "gift_card",
+        "balance": 125.0,
+        "id": "gift_card_8617381"
+      }
+    },
+    "orders": [
+      "#W5438490",
+      "#W2194198",
+      "#W4916201"
+    ],
+    "authorized_pickup_proxies": [
+      "Priya Delgado"
+    ]
+  },
+  "rosa_donahue_4241": {
+    "name": {
+      "first_name": "Rosa",
+      "last_name": "Donahue"
+    },
+    "address": {
+      "address1": "7065 Underwood Avenue",
+      "address2": "Unit 8B",
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA",
+      "zip": "25043"
+    },
+    "email": "rosa.donahue4821@example.com",
+    "phone": "503-555-9922",
+    "payment_methods": {
+      "credit_card_4771676": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "2441",
+        "id": "credit_card_4771676"
+      }
+    },
+    "orders": [
+      "#W3386328",
+      "#W5456573"
+    ],
+    "authorized_replacement_no_return": [
+      {
+        "order_id": "#W5456573",
+        "item_id": "8713524078",
+        "reason": "technician total-loss determination"
+      }
+    ]
+  },
+  "quinn_goldberg_2169": {
+    "name": {
+      "first_name": "Quinn",
+      "last_name": "Goldberg"
+    },
+    "username": "quinn.goldberg",
+    "address": {
+      "address1": "1077 Thornfield Way",
+      "address2": "Suite 4100",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "zip": "31747"
+    },
+    "email": "quinn.goldberg@yahoo.com",
+    "recovery_email": "quinn.w.secure@yahoo.com",
+    "recovery_phone": "+1 (212) 555-5728",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "New York",
+    "phone": "212-555-6039",
+    "payment_methods": {
+      "credit_card_8367772": {
+        "source": "credit_card",
+        "brand": "amex",
+        "last_four": "2037",
+        "id": "credit_card_8367772"
+      },
+      "paypal_8863447": {
+        "source": "paypal",
+        "id": "paypal_8863447"
+      }
+    },
+    "orders": [
+      "#W6101803"
+    ],
+    "recent_tickets": []
+  },
+  "yusuf_yamamoto_7594": {
+    "name": {
+      "first_name": "Yusuf",
+      "last_name": "Yamamoto"
+    },
+    "address": {
+      "address1": "4560 Northgate Road",
+      "address2": "Unit 7",
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA",
+      "zip": "75597"
+    },
+    "email": "yusuf.yamamoto5620@example.com",
+    "phone": "215-555-9847",
+    "payment_methods": {
+      "credit_card_9284509": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "7172",
+        "id": "credit_card_9284509"
+      }
+    },
+    "orders": [
+      "#W2349590"
+    ]
+  },
+  "juno_castellano_1653": {
+    "name": {
+      "first_name": "Juno",
+      "last_name": "Castellano"
+    },
+    "address": {
+      "address1": "7178 Kingsley Boulevard",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA",
+      "zip": "52247"
+    },
+    "email": "juno.castellano2841@example.com",
+    "phone": "704-555-5102",
+    "payment_methods": {
+      "credit_card_1433940": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "1496",
+        "id": "credit_card_1433940"
+      }
+    },
+    "orders": [
+      "#W4840714"
+    ]
+  },
+  "helena_vasquez_1339": {
+    "name": {
+      "first_name": "Helena",
+      "last_name": "Vasquez"
+    },
+    "address": {
+      "address1": "4515 Westbury Court",
+      "address2": "Apt 5C",
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA",
+      "zip": "85529"
+    },
+    "email": "helena.vasquez8842@example.com",
+    "phone": "612-555-1659",
+    "payment_methods": {
+      "credit_card_3939212": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "7708",
+        "id": "credit_card_3939212"
+      },
+      "gift_card_9706768": {
+        "source": "gift_card",
+        "balance": 175.0,
+        "id": "gift_card_9706768"
+      }
+    },
+    "orders": [
+      "#W8419378"
+    ]
+  },
+  "aria_bellamy_5557": {
+    "name": {
+      "first_name": "Aria",
+      "last_name": "Bellamy"
+    },
+    "address": {
+      "address1": "3073 Yarrow Lane",
+      "address2": "Apt 5B",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "86720"
+    },
+    "email": "aria.bellamy4821@example.com",
+    "phone": "206-555-8141",
+    "payment_methods": {
+      "credit_card_9249789": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "1494",
+        "id": "credit_card_9249789"
+      }
+    },
+    "orders": [
+      "#W8885465",
+      "#W6837817"
+    ],
+    "authorized_missing_item_replacements": [
+      {
+        "order_id": "#W6837817",
+        "item_id": "6018293745",
+        "missing_component_description": "USB-C charger and cable"
+      }
+    ]
+  },
+  "marcus_espinoza_6260": {
+    "name": {
+      "first_name": "Marcus",
+      "last_name": "Espinoza"
+    },
+    "address": {
+      "address1": "1813 Maplecrest Avenue",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "31079"
+    },
+    "email": "marcus.espinoza7392@example.com",
+    "phone": "312-555-6403",
+    "payment_methods": {
+      "credit_card_7906258": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "8117",
+        "id": "credit_card_7906258"
+      }
+    },
+    "orders": [
+      "#W5835492"
+    ]
+  },
+  "tessa_hawthorne_7561": {
+    "name": {
+      "first_name": "Tessa",
+      "last_name": "Hawthorne"
+    },
+    "address": {
+      "address1": "9112 Overlook Terrace",
+      "address2": "Apt 4D",
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA",
+      "zip": "14809"
+    },
+    "email": "tessa.hawthorne3917@example.com",
+    "phone": "303-555-8451",
+    "payment_methods": {
+      "credit_card_2477398": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "5153",
+        "id": "credit_card_2477398"
+      },
+      "gift_card_5234550": {
+        "source": "gift_card",
+        "balance": 60.0,
+        "id": "gift_card_5234550"
+      }
+    },
+    "orders": [
+      "#W6423634"
+    ],
+    "eligible_promotions": [
+      {
+        "code": "LOYALTY15",
+        "description": "15% loyalty member discount on clothing purchases",
+        "discount_percent": 15,
+        "status": "valid",
+        "account_linked": true,
+        "expires": "2026-06-30"
+      }
+    ]
+  },
+  "freya_sinclair_2899": {
+    "name": {
+      "first_name": "Freya",
+      "last_name": "Sinclair"
+    },
+    "address": {
+      "address1": "6722 Fallbrook Road",
+      "address2": "Apt 6C",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA",
+      "zip": "77449"
+    },
+    "email": "freya.sinclair7293@example.com",
+    "phone": "602-555-1018",
+    "payment_methods": {
+      "credit_card_8750676": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "6770",
+        "id": "credit_card_8750676"
+      }
+    },
+    "orders": [
+      "#W1909393"
+    ],
+    "authorized_refund_without_return": [
+      {
+        "order_id": "#W1909393",
+        "item_id": "8293047156",
+        "refund_amount": 68.0,
+        "reason": "marketplace claim approved: not as described (material/color mismatch)"
+      }
+    ]
+  },
+  "theo_cavanaugh_4073": {
+    "name": {
+      "first_name": "Theo",
+      "last_name": "Cavanaugh"
+    },
+    "address": {
+      "address1": "6790 Ivywood Drive",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "53687"
+    },
+    "email": "theo.cavanaugh7820@example.com",
+    "phone": "415-555-9494",
+    "payment_methods": {
+      "credit_card_7069650": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "8167",
+        "id": "credit_card_7069650"
+      }
+    },
+    "orders": []
+  },
+  "iris_thornton_9998": {
+    "name": {
+      "first_name": "Iris",
+      "last_name": "Thornton"
+    },
+    "address": {
+      "address1": "2246 Harborline Way",
+      "address2": "Apt 7A",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "47752"
+    },
+    "email": "iris.thornton2291@example.com",
+    "phone": "312-555-8178",
+    "payment_methods": {
+      "credit_card_9132114": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "1989",
+        "id": "credit_card_9132114"
+      },
+      "gift_card_1484348": {
+        "source": "gift_card",
+        "balance": 45.0,
+        "id": "gift_card_1484348"
+      }
+    },
+    "orders": [
+      "#W5014745"
+    ]
+  },
+  "rhea_cavanaugh_3594": {
+    "name": {
+      "first_name": "Rhea",
+      "last_name": "Cavanaugh"
+    },
+    "address": {
+      "address1": "6790 Ivywood Drive",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "53687"
+    },
+    "email": "rhea.cavanaugh3481@example.com",
+    "phone": "415-555-6091",
+    "payment_methods": {
+      "credit_card_1229419": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "9048",
+        "id": "credit_card_1229419"
+      }
+    },
+    "orders": []
+  },
+  "hugo_okafor_8560": {
+    "name": {
+      "first_name": "Hugo",
+      "last_name": "Okafor"
+    },
+    "address": {
+      "address1": "2024 Rosemont Street",
+      "address2": "Unit 2D",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA",
+      "zip": "94896"
+    },
+    "email": "hugo.okafor2847@example.com",
+    "phone": "650-555-3522",
+    "payment_methods": {
+      "credit_card_9361353": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "4781",
+        "id": "credit_card_9361353"
+      }
+    },
+    "orders": [],
+    "trade_ins": [
+      "TRD-9537455"
+    ]
+  },
+  "xander_zielinski_5479": {
+    "name": {
+      "first_name": "Xander",
+      "last_name": "Zielinski"
+    },
+    "username": "xander.zielinski",
+    "address": {
+      "address1": "6907 Pinecrest Court",
+      "address2": "Apt 12B",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "73242"
+    },
+    "email": "xander.zielinski@gmail.com",
+    "recovery_email": "xander.backup@gmail.com",
+    "recovery_phone": "+1 (415) 555-4993",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "San Francisco",
+    "phone": "415-555-8736",
+    "payment_methods": {
+      "credit_card_8663605": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "9031",
+        "id": "credit_card_8663605"
+      }
+    },
+    "orders": [
+      "#W3426689"
+    ],
+    "recent_tickets": [],
+    "authorized_recovery_email_changes": [
+      {
+        "new_recovery_email": "xander.zielinski24@gmail.com"
+      }
+    ]
+  },
+  "wren_ridgeway_7284": {
+    "name": {
+      "first_name": "Wren",
+      "last_name": "Ridgeway"
+    },
+    "address": {
+      "address1": "3222 Elmwood Circle",
+      "address2": "Apt 2C",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "88561"
+    },
+    "email": "wren.ridgeway5190@example.com",
+    "phone": "206-555-9327",
+    "payment_methods": {
+      "credit_card_3290229": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "1143",
+        "id": "credit_card_3290229"
+      }
+    },
+    "orders": [
+      "#W5634662"
+    ],
+    "loyalty_account": {
+      "points_balance": 2340,
+      "member_since": "2024-08-15",
+      "tier": "gold"
+    }
+  },
+  "dahlia_fontaine_7798": {
+    "name": {
+      "first_name": "Dahlia",
+      "last_name": "Fontaine"
+    },
+    "address": {
+      "address1": "5668 Sagebrook Lane",
+      "address2": "Apt 7A",
+      "city": "Evanston",
+      "state": "IL",
+      "country": "USA",
+      "zip": "76550"
+    },
+    "email": "dahlia.fontaine6237@example.com",
+    "phone": "847-555-5377",
+    "payment_methods": {
+      "credit_card_1043037": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "4634",
+        "id": "credit_card_1043037"
+      }
+    },
+    "orders": [
+      "#W6008935"
+    ]
+  },
+  "celeste_eriksson_9022": {
+    "name": {
+      "first_name": "Celeste",
+      "last_name": "Eriksson"
+    },
+    "username": "celeste.eriksson",
+    "address": {
+      "address1": "2534 Quarry Ridge Road",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "68529"
+    },
+    "email": "celeste.eriksson@outlook.com",
+    "recovery_email": "celeste.k.backup@outlook.com",
+    "recovery_phone": "+1 (312) 555-8935",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "Chicago",
+    "phone": "312-555-9824",
+    "payment_methods": {
+      "credit_card_6790218": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "5446",
+        "id": "credit_card_6790218"
+      }
+    },
+    "orders": [
+      "#W7328534"
+    ],
+    "recent_tickets": []
+  },
+  "paloma_novak_8460": {
+    "name": {
+      "first_name": "Paloma",
+      "last_name": "Novak"
+    },
+    "address": {
+      "address1": "5372 Brookhaven Lane",
+      "address2": "Apt 3C",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA",
+      "zip": "34727"
+    },
+    "email": "paloma.novak3847@example.com",
+    "phone": "512-555-4912",
+    "payment_methods": {
+      "credit_card_7425184": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "3826",
+        "id": "credit_card_7425184"
+      }
+    },
+    "orders": [
+      "#W7891662"
+    ]
+  },
+  "aisha_grimaldi_1715": {
+    "name": {
+      "first_name": "Aisha",
+      "last_name": "Grimaldi"
+    },
+    "address": {
+      "address1": "5313 Juniper Hollow",
+      "address2": "Apt 3B",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA",
+      "zip": "71993"
+    },
+    "email": "aisha.grimaldi4829@example.com",
+    "phone": "408-555-7246",
+    "payment_methods": {
+      "credit_card_7477326": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "2492",
+        "id": "credit_card_7477326"
+      },
+      "gift_card_9310235": {
+        "source": "gift_card",
+        "balance": 125.0,
+        "id": "gift_card_9310235"
+      }
+    },
+    "orders": [
+      "#W9427047",
+      "#W1621086",
+      "#W3118060"
+    ],
+    "authorized_pickup_proxies": [
+      "Priya Grimaldi"
+    ]
+  },
+  "kira_larsson_6439": {
+    "name": {
+      "first_name": "Kira",
+      "last_name": "Larsson"
+    },
+    "address": {
+      "address1": "1744 Cypress Terrace",
+      "address2": "Unit 8B",
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA",
+      "zip": "67711"
+    },
+    "email": "kira.larsson4821@example.com",
+    "phone": "503-555-2633",
+    "payment_methods": {
+      "credit_card_9823994": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "7486",
+        "id": "credit_card_9823994"
+      }
+    },
+    "orders": [
+      "#W3418526",
+      "#W1257489"
+    ],
+    "authorized_replacement_no_return": [
+      {
+        "order_id": "#W1257489",
+        "item_id": "8713524078",
+        "reason": "technician total-loss determination"
+      }
+    ]
+  },
+  "dmitri_okonkwo_7717": {
+    "name": {
+      "first_name": "Dmitri",
+      "last_name": "Okonkwo"
+    },
+    "username": "dmitri.okonkwo",
+    "address": {
+      "address1": "2629 Glenview Street",
+      "address2": "Suite 4100",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "zip": "19807"
+    },
+    "email": "dmitri.okonkwo@yahoo.com",
+    "recovery_email": "dmitri.w.secure@yahoo.com",
+    "recovery_phone": "+1 (212) 555-5342",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "New York",
+    "phone": "212-555-8692",
+    "payment_methods": {
+      "credit_card_6680114": {
+        "source": "credit_card",
+        "brand": "amex",
+        "last_four": "6512",
+        "id": "credit_card_6680114"
+      },
+      "paypal_2347467": {
+        "source": "paypal",
+        "id": "paypal_2347467"
+      }
+    },
+    "orders": [
+      "#W6512415"
+    ],
+    "recent_tickets": []
+  },
+  "silas_nakamura_9742": {
+    "name": {
+      "first_name": "Silas",
+      "last_name": "Nakamura"
+    },
+    "address": {
+      "address1": "6326 Vantage Point Drive",
+      "address2": "Unit 7",
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA",
+      "zip": "51505"
+    },
+    "email": "silas.nakamura5620@example.com",
+    "phone": "215-555-8994",
+    "payment_methods": {
+      "credit_card_1602286": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "1121",
+        "id": "credit_card_1602286"
+      }
+    },
+    "orders": [
+      "#W4938791"
+    ]
+  },
+  "ingrid_fairbanks_5708": {
+    "name": {
+      "first_name": "Ingrid",
+      "last_name": "Fairbanks"
+    },
+    "address": {
+      "address1": "3827 Larkspur Lane",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA",
+      "zip": "21846"
+    },
+    "email": "ingrid.fairbanks2841@example.com",
+    "phone": "704-555-8110",
+    "payment_methods": {
+      "credit_card_2651601": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "1646",
+        "id": "credit_card_2651601"
+      }
+    },
+    "orders": [
+      "#W8443690"
+    ]
+  },
+  "nora_osei_3725": {
+    "name": {
+      "first_name": "Nora",
+      "last_name": "Osei"
+    },
+    "address": {
+      "address1": "5006 Dunmore Avenue",
+      "address2": "Apt 5C",
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA",
+      "zip": "13794"
+    },
+    "email": "nora.osei8842@example.com",
+    "phone": "612-555-1753",
+    "payment_methods": {
+      "credit_card_6442103": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "0919",
+        "id": "credit_card_6442103"
+      },
+      "gift_card_5921894": {
+        "source": "gift_card",
+        "balance": 175.0,
+        "id": "gift_card_5921894"
+      }
+    },
+    "orders": [
+      "#W7014016"
+    ]
+  },
+  "camille_pemberton_7141": {
+    "name": {
+      "first_name": "Camille",
+      "last_name": "Pemberton"
+    },
+    "address": {
+      "address1": "7156 Aspen Court",
+      "address2": "Apt 5B",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "29080"
+    },
+    "email": "camille.pemberton4821@example.com",
+    "phone": "206-555-5000",
+    "payment_methods": {
+      "credit_card_9911492": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "6751",
+        "id": "credit_card_9911492"
+      }
+    },
+    "orders": [
+      "#W4020853",
+      "#W3851852"
+    ],
+    "authorized_missing_item_replacements": [
+      {
+        "order_id": "#W3851852",
+        "item_id": "6018293745",
+        "missing_component_description": "USB-C charger and cable"
+      }
+    ]
+  },
+  "bruno_draper_7267": {
+    "name": {
+      "first_name": "Bruno",
+      "last_name": "Draper"
+    },
+    "address": {
+      "address1": "4045 Thornfield Way",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "75230"
+    },
+    "email": "bruno.draper7392@example.com",
+    "phone": "312-555-3344",
+    "payment_methods": {
+      "credit_card_4895475": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "7555",
+        "id": "credit_card_4895475"
+      }
+    },
+    "orders": [
+      "#W5261032"
+    ]
+  },
+  "yara_montgomery_8529": {
+    "name": {
+      "first_name": "Yara",
+      "last_name": "Montgomery"
+    },
+    "address": {
+      "address1": "4283 Northgate Road",
+      "address2": "Apt 4D",
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA",
+      "zip": "97404"
+    },
+    "email": "yara.montgomery3917@example.com",
+    "phone": "303-555-1153",
+    "payment_methods": {
+      "credit_card_8805654": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "4712",
+        "id": "credit_card_8805654"
+      },
+      "gift_card_3650391": {
+        "source": "gift_card",
+        "balance": 60.0,
+        "id": "gift_card_3650391"
+      }
+    },
+    "orders": [
+      "#W2239197"
+    ],
+    "eligible_promotions": [
+      {
+        "code": "LOYALTY15",
+        "description": "15% loyalty member discount on clothing purchases",
+        "discount_percent": 15,
+        "status": "valid",
+        "account_linked": true,
+        "expires": "2026-06-30"
+      }
+    ]
+  },
+  "esme_vance_8237": {
+    "name": {
+      "first_name": "Esme",
+      "last_name": "Vance"
+    },
+    "address": {
+      "address1": "5761 Kingsley Boulevard",
+      "address2": "Apt 6C",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA",
+      "zip": "87014"
+    },
+    "email": "esme.vance7293@example.com",
+    "phone": "602-555-5901",
+    "payment_methods": {
+      "credit_card_8118722": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "4097",
+        "id": "credit_card_8118722"
+      }
+    },
+    "orders": [
+      "#W8664433"
+    ],
+    "authorized_refund_without_return": [
+      {
+        "order_id": "#W8664433",
+        "item_id": "8293047156",
+        "refund_amount": 68.0,
+        "reason": "marketplace claim approved: not as described (material/color mismatch)"
+      }
+    ]
+  },
+  "cyrus_wexler_5949": {
+    "name": {
+      "first_name": "Cyrus",
+      "last_name": "Wexler"
+    },
+    "address": {
+      "address1": "2968 Underwood Avenue",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "20350"
+    },
+    "email": "cyrus.wexler7820@example.com",
+    "phone": "415-555-4263",
+    "payment_methods": {
+      "credit_card_7454081": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "7916",
+        "id": "credit_card_7454081"
+      }
+    },
+    "orders": []
+  },
+  "greta_underwood_5847": {
+    "name": {
+      "first_name": "Greta",
+      "last_name": "Underwood"
+    },
+    "address": {
+      "address1": "4937 Westbury Court",
+      "address2": "Apt 7A",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "12875"
+    },
+    "email": "greta.underwood2291@example.com",
+    "phone": "312-555-7484",
+    "payment_methods": {
+      "credit_card_5605016": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "0132",
+        "id": "credit_card_5605016"
+      },
+      "gift_card_1822825": {
+        "source": "gift_card",
+        "balance": 45.0,
+        "id": "gift_card_1822825"
+      }
+    },
+    "orders": [
+      "#W9333700"
+    ]
+  },
+  "nadia_wexler_5689": {
+    "name": {
+      "first_name": "Nadia",
+      "last_name": "Wexler"
+    },
+    "address": {
+      "address1": "2968 Underwood Avenue",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "20350"
+    },
+    "email": "nadia.wexler3481@example.com",
+    "phone": "415-555-4770",
+    "payment_methods": {
+      "credit_card_6910964": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "3588",
+        "id": "credit_card_6910964"
+      }
+    },
+    "orders": []
+  },
+  "viktor_bauer_1645": {
+    "name": {
+      "first_name": "Viktor",
+      "last_name": "Bauer"
+    },
+    "address": {
+      "address1": "5161 Yarrow Lane",
+      "address2": "Unit 2D",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA",
+      "zip": "67779"
+    },
+    "email": "viktor.bauer2847@example.com",
+    "phone": "650-555-1546",
+    "payment_methods": {
+      "credit_card_7121355": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "2153",
+        "id": "credit_card_7121355"
+      }
+    },
+    "orders": [],
+    "trade_ins": [
+      "TRD-2512187"
+    ]
+  },
+  "felix_ashford_5835": {
+    "name": {
+      "first_name": "Felix",
+      "last_name": "Ashford"
+    },
+    "username": "felix.ashford",
+    "address": {
+      "address1": "5452 Ivywood Drive",
+      "address2": "Apt 12B",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "64460"
+    },
+    "email": "felix.ashford@gmail.com",
+    "recovery_email": "felix.backup@gmail.com",
+    "recovery_phone": "+1 (415) 555-4289",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "San Francisco",
+    "phone": "415-555-3877",
+    "payment_methods": {
+      "credit_card_3217273": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "8837",
+        "id": "credit_card_3217273"
+      }
+    },
+    "orders": [
+      "#W7138070"
+    ],
+    "recent_tickets": [],
+    "authorized_recovery_email_changes": [
+      {
+        "new_recovery_email": "felix.ashford24@gmail.com"
+      }
+    ]
+  },
+  "rosa_fitzgerald_9697": {
+    "name": {
+      "first_name": "Rosa",
+      "last_name": "Fitzgerald"
+    },
+    "address": {
+      "address1": "8321 Maplecrest Avenue",
+      "address2": "Apt 2C",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "45720"
+    },
+    "email": "rosa.fitzgerald5190@example.com",
+    "phone": "206-555-3695",
+    "payment_methods": {
+      "credit_card_5311242": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "7894",
+        "id": "credit_card_5311242"
+      }
+    },
+    "orders": [
+      "#W5951651"
+    ],
+    "loyalty_account": {
+      "points_balance": 2340,
+      "member_since": "2024-08-15",
+      "tier": "gold"
+    }
+  },
+  "juno_lindqvist_6549": {
+    "name": {
+      "first_name": "Juno",
+      "last_name": "Lindqvist"
+    },
+    "address": {
+      "address1": "1986 Overlook Terrace",
+      "address2": "Apt 7A",
+      "city": "Evanston",
+      "state": "IL",
+      "country": "USA",
+      "zip": "71385"
+    },
+    "email": "juno.lindqvist6237@example.com",
+    "phone": "847-555-2233",
+    "payment_methods": {
+      "credit_card_3361510": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "3696",
+        "id": "credit_card_3361510"
+      }
+    },
+    "orders": [
+      "#W7667458"
+    ]
+  },
+  "helena_marchetti_6992": {
+    "name": {
+      "first_name": "Helena",
+      "last_name": "Marchetti"
+    },
+    "username": "helena.marchetti",
+    "address": {
+      "address1": "1579 Fallbrook Road",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "61717"
+    },
+    "email": "helena.marchetti@outlook.com",
+    "recovery_email": "helena.marchetti1@outlook.com",
+    "recovery_phone": "+1 (312) 555-5332",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "Chicago",
+    "phone": "312-555-1228",
+    "payment_methods": {
+      "credit_card_3073474": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "7451",
+        "id": "credit_card_3073474"
+      }
+    },
+    "orders": [
+      "#W7183841"
+    ],
+    "recent_tickets": []
+  },
+  "aria_solberg_5295": {
+    "name": {
+      "first_name": "Aria",
+      "last_name": "Solberg"
+    },
+    "address": {
+      "address1": "9677 Harborline Way",
+      "address2": "Apt 3C",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA",
+      "zip": "59941"
+    },
+    "email": "aria.solberg3847@example.com",
+    "phone": "512-555-7086",
+    "payment_methods": {
+      "credit_card_2817745": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "3830",
+        "id": "credit_card_2817745"
+      }
+    },
+    "orders": [
+      "#W8910069"
+    ]
+  },
+  "tessa_whitfield_1410": {
+    "name": {
+      "first_name": "Tessa",
+      "last_name": "Whitfield"
+    },
+    "address": {
+      "address1": "9298 Rosemont Street",
+      "address2": "Apt 3B",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA",
+      "zip": "52992"
+    },
+    "email": "tessa.whitfield4829@example.com",
+    "phone": "408-555-4626",
+    "payment_methods": {
+      "credit_card_2060605": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "7606",
+        "id": "credit_card_2060605"
+      },
+      "gift_card_6069909": {
+        "source": "gift_card",
+        "balance": 125.0,
+        "id": "gift_card_6069909"
+      }
+    },
+    "orders": [
+      "#W3345069",
+      "#W7850067",
+      "#W2957497"
+    ],
+    "authorized_pickup_proxies": [
+      "Priya Whitfield"
+    ]
+  },
+  "iris_ishikawa_1742": {
+    "name": {
+      "first_name": "Iris",
+      "last_name": "Ishikawa"
+    },
+    "address": {
+      "address1": "709 Pinecrest Court",
+      "address2": "Unit 8B",
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA",
+      "zip": "49893"
+    },
+    "email": "iris.ishikawa4821@example.com",
+    "phone": "503-555-9071",
+    "payment_methods": {
+      "credit_card_2948178": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "1592",
+        "id": "credit_card_2948178"
+      }
+    },
+    "orders": [
+      "#W3276065",
+      "#W4939290"
+    ],
+    "authorized_replacement_no_return": [
+      {
+        "order_id": "#W4939290",
+        "item_id": "8713524078",
+        "reason": "technician total-loss determination"
+      }
+    ]
+  },
+  "diego_jovanovic_7367": {
+    "name": {
+      "first_name": "Diego",
+      "last_name": "Jovanovic"
+    },
+    "username": "diego.jovanovic",
+    "address": {
+      "address1": "7532 Elmwood Circle",
+      "address2": "Suite 4100",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "zip": "58629"
+    },
+    "email": "diego.jovanovic@yahoo.com",
+    "recovery_email": "diego.w.secure@yahoo.com",
+    "recovery_phone": "+1 (212) 555-7866",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "New York",
+    "phone": "212-555-9850",
+    "payment_methods": {
+      "credit_card_3592464": {
+        "source": "credit_card",
+        "brand": "amex",
+        "last_four": "6797",
+        "id": "credit_card_3592464"
+      },
+      "paypal_2661307": {
+        "source": "paypal",
+        "id": "paypal_2661307"
+      }
+    },
+    "orders": [
+      "#W9209880"
+    ],
+    "recent_tickets": []
+  },
+  "mateo_halloran_7686": {
+    "name": {
+      "first_name": "Mateo",
+      "last_name": "Halloran"
+    },
+    "address": {
+      "address1": "4683 Sagebrook Lane",
+      "address2": "Unit 7",
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA",
+      "zip": "14288"
+    },
+    "email": "mateo.halloran5620@example.com",
+    "phone": "215-555-7070",
+    "payment_methods": {
+      "credit_card_4645180": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "7264",
+        "id": "credit_card_4645180"
+      }
+    },
+    "orders": [
+      "#W8460758"
+    ]
+  },
+  "rhea_delgado_4868": {
+    "name": {
+      "first_name": "Rhea",
+      "last_name": "Delgado"
+    },
+    "address": {
+      "address1": "6042 Quarry Ridge Road",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA",
+      "zip": "23022"
+    },
+    "email": "rhea.delgado2841@example.com",
+    "phone": "704-555-7018",
+    "payment_methods": {
+      "credit_card_7017548": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "0992",
+        "id": "credit_card_7017548"
+      }
+    },
+    "orders": [
+      "#W7679674"
+    ]
+  },
+  "wren_donahue_5520": {
+    "name": {
+      "first_name": "Wren",
+      "last_name": "Donahue"
+    },
+    "address": {
+      "address1": "3209 Brookhaven Lane",
+      "address2": "Apt 5C",
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA",
+      "zip": "26011"
+    },
+    "email": "wren.donahue8842@example.com",
+    "phone": "612-555-8450",
+    "payment_methods": {
+      "credit_card_2538024": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "9783",
+        "id": "credit_card_2538024"
+      },
+      "gift_card_1358318": {
+        "source": "gift_card",
+        "balance": 175.0,
+        "id": "gift_card_1358318"
+      }
+    },
+    "orders": [
+      "#W1848566"
+    ]
+  },
+  "dahlia_goldberg_6464": {
+    "name": {
+      "first_name": "Dahlia",
+      "last_name": "Goldberg"
+    },
+    "address": {
+      "address1": "4090 Juniper Hollow",
+      "address2": "Apt 5B",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "26505"
+    },
+    "email": "dahlia.goldberg4821@example.com",
+    "phone": "206-555-4362",
+    "payment_methods": {
+      "credit_card_2151087": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "9080",
+        "id": "credit_card_2151087"
+      }
+    },
+    "orders": [
+      "#W4475523",
+      "#W4623062"
+    ],
+    "authorized_missing_item_replacements": [
+      {
+        "order_id": "#W4623062",
+        "item_id": "6018293745",
+        "missing_component_description": "USB-C charger and cable"
+      }
+    ]
+  },
+  "jonas_castellano_3417": {
+    "name": {
+      "first_name": "Jonas",
+      "last_name": "Castellano"
+    },
+    "address": {
+      "address1": "9864 Glenview Street",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "10371"
+    },
+    "email": "jonas.castellano7392@example.com",
+    "phone": "312-555-5542",
+    "payment_methods": {
+      "credit_card_3427461": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "2129",
+        "id": "credit_card_3427461"
+      }
+    },
+    "orders": [
+      "#W5205279"
+    ]
+  },
+  "celeste_vasquez_3858": {
+    "name": {
+      "first_name": "Celeste",
+      "last_name": "Vasquez"
+    },
+    "address": {
+      "address1": "1901 Vantage Point Drive",
+      "address2": "Apt 4D",
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA",
+      "zip": "96646"
+    },
+    "email": "celeste.vasquez3917@example.com",
+    "phone": "303-555-1422",
+    "payment_methods": {
+      "credit_card_3211291": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "0243",
+        "id": "credit_card_3211291"
+      },
+      "gift_card_7010308": {
+        "source": "gift_card",
+        "balance": 60.0,
+        "id": "gift_card_7010308"
+      }
+    },
+    "orders": [
+      "#W4991829"
+    ],
+    "eligible_promotions": [
+      {
+        "code": "LOYALTY15",
+        "description": "15% loyalty member discount on clothing purchases",
+        "discount_percent": 15,
+        "status": "valid",
+        "account_linked": true,
+        "expires": "2026-06-30"
+      }
+    ]
+  },
+  "paloma_bellamy_6304": {
+    "name": {
+      "first_name": "Paloma",
+      "last_name": "Bellamy"
+    },
+    "address": {
+      "address1": "358 Larkspur Lane",
+      "address2": "Apt 6C",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA",
+      "zip": "32838"
+    },
+    "email": "paloma.bellamy7293@example.com",
+    "phone": "602-555-5347",
+    "payment_methods": {
+      "credit_card_1879109": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "2076",
+        "id": "credit_card_1879109"
+      }
+    },
+    "orders": [
+      "#W8062546"
+    ],
+    "authorized_refund_without_return": [
+      {
+        "order_id": "#W8062546",
+        "item_id": "8293047156",
+        "refund_amount": 68.0,
+        "reason": "marketplace claim approved: not as described (material/color mismatch)"
+      }
+    ]
+  },
+  "zane_yamamoto_9619": {
+    "name": {
+      "first_name": "Zane",
+      "last_name": "Yamamoto"
+    },
+    "address": {
+      "address1": "3917 Cypress Terrace",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "53064"
+    },
+    "email": "zane.yamamoto7820@example.com",
+    "phone": "415-555-2862",
+    "payment_methods": {
+      "credit_card_2066326": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "7802",
+        "id": "credit_card_2066326"
+      }
+    },
+    "orders": []
+  },
+  "aisha_cavanaugh_8405": {
+    "name": {
+      "first_name": "Aisha",
+      "last_name": "Cavanaugh"
+    },
+    "address": {
+      "address1": "8354 Dunmore Avenue",
+      "address2": "Apt 7A",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "39038"
+    },
+    "email": "aisha.cavanaugh2291@example.com",
+    "phone": "312-555-1710",
+    "payment_methods": {
+      "credit_card_9748499": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "4941",
+        "id": "credit_card_9748499"
+      },
+      "gift_card_8684678": {
+        "source": "gift_card",
+        "balance": 45.0,
+        "id": "gift_card_8684678"
+      }
+    },
+    "orders": [
+      "#W1522621"
+    ]
+  },
+  "kira_yamamoto_1996": {
+    "name": {
+      "first_name": "Kira",
+      "last_name": "Yamamoto"
+    },
+    "address": {
+      "address1": "3917 Cypress Terrace",
+      "address2": "Apt 4D",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "53064"
+    },
+    "email": "kira.yamamoto3481@example.com",
+    "phone": "415-555-8847",
+    "payment_methods": {
+      "credit_card_7738019": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "6984",
+        "id": "credit_card_7738019"
+      }
+    },
+    "orders": []
+  },
+  "gabriel_espinoza_2323": {
+    "name": {
+      "first_name": "Gabriel",
+      "last_name": "Espinoza"
+    },
+    "address": {
+      "address1": "5377 Aspen Court",
+      "address2": "Unit 2D",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA",
+      "zip": "89730"
+    },
+    "email": "gabriel.espinoza2847@example.com",
+    "phone": "650-555-3430",
+    "payment_methods": {
+      "credit_card_2101965": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "2067",
+        "id": "credit_card_2101965"
+      }
+    },
+    "orders": [],
+    "trade_ins": [
+      "TRD-5614002"
+    ]
+  },
+  "otto_hawthorne_9984": {
+    "name": {
+      "first_name": "Otto",
+      "last_name": "Hawthorne"
+    },
+    "username": "otto.hawthorne",
+    "address": {
+      "address1": "5427 Underwood Avenue",
+      "address2": "Apt 12B",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "59925"
+    },
+    "email": "otto.hawthorne@gmail.com",
+    "recovery_email": "otto.backup@gmail.com",
+    "recovery_phone": "+1 (415) 555-5831",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "San Francisco",
+    "phone": "415-555-9692",
+    "payment_methods": {
+      "credit_card_8612081": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "8282",
+        "id": "credit_card_8612081"
+      }
+    },
+    "orders": [
+      "#W8217547"
+    ],
+    "recent_tickets": [],
+    "authorized_recovery_email_changes": [
+      {
+        "new_recovery_email": "otto.hawthorne24@gmail.com"
+      }
+    ]
+  },
+  "ingrid_sinclair_2624": {
+    "name": {
+      "first_name": "Ingrid",
+      "last_name": "Sinclair"
+    },
+    "address": {
+      "address1": "1974 Thornfield Way",
+      "address2": "Apt 2C",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "95814"
+    },
+    "email": "ingrid.sinclair5190@example.com",
+    "phone": "206-555-4522",
+    "payment_methods": {
+      "credit_card_8215376": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "7398",
+        "id": "credit_card_8215376"
+      }
+    },
+    "orders": [
+      "#W4833486"
+    ],
+    "loyalty_account": {
+      "points_balance": 2340,
+      "member_since": "2024-08-15",
+      "tier": "gold"
+    }
+  },
+  "nora_thornton_7779": {
+    "name": {
+      "first_name": "Nora",
+      "last_name": "Thornton"
+    },
+    "address": {
+      "address1": "5653 Northgate Road",
+      "address2": "Apt 7A",
+      "city": "Evanston",
+      "state": "IL",
+      "country": "USA",
+      "zip": "69441"
+    },
+    "email": "nora.thornton6237@example.com",
+    "phone": "847-555-7532",
+    "payment_methods": {
+      "credit_card_7979148": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "1557",
+        "id": "credit_card_7979148"
+      }
+    },
+    "orders": [
+      "#W6243691"
+    ]
+  },
+  "camille_okafor_7992": {
+    "name": {
+      "first_name": "Camille",
+      "last_name": "Okafor"
+    },
+    "username": "camille.okafor",
+    "address": {
+      "address1": "5220 Kingsley Boulevard",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "97177"
+    },
+    "email": "camille.okafor@outlook.com",
+    "recovery_email": "camille.k.backup@outlook.com",
+    "recovery_phone": "+1 (312) 555-7132",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "Chicago",
+    "phone": "312-555-5176",
+    "payment_methods": {
+      "credit_card_3560856": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "7770",
+        "id": "credit_card_3560856"
+      }
+    },
+    "orders": [
+      "#W2126310"
+    ],
+    "recent_tickets": []
+  },
+  "yara_zielinski_2494": {
+    "name": {
+      "first_name": "Yara",
+      "last_name": "Zielinski"
+    },
+    "address": {
+      "address1": "1498 Westbury Court",
+      "address2": "Apt 3C",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA",
+      "zip": "22219"
+    },
+    "email": "yara.zielinski3847@example.com",
+    "phone": "512-555-8075",
+    "payment_methods": {
+      "credit_card_2620082": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "6105",
+        "id": "credit_card_2620082"
+      }
+    },
+    "orders": [
+      "#W3182975"
+    ]
+  },
+  "esme_ridgeway_1982": {
+    "name": {
+      "first_name": "Esme",
+      "last_name": "Ridgeway"
+    },
+    "address": {
+      "address1": "9708 Yarrow Lane",
+      "address2": "Apt 3B",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA",
+      "zip": "83608"
+    },
+    "email": "esme.ridgeway4829@example.com",
+    "phone": "408-555-6400",
+    "payment_methods": {
+      "credit_card_3050700": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "6730",
+        "id": "credit_card_3050700"
+      },
+      "gift_card_6932391": {
+        "source": "gift_card",
+        "balance": 125.0,
+        "id": "gift_card_6932391"
+      }
+    },
+    "orders": [
+      "#W5825620",
+      "#W8095702",
+      "#W1863121"
+    ],
+    "authorized_pickup_proxies": [
+      "Priya Ridgeway"
+    ]
+  },
+  "greta_fontaine_6119": {
+    "name": {
+      "first_name": "Greta",
+      "last_name": "Fontaine"
+    },
+    "address": {
+      "address1": "5861 Ivywood Drive",
+      "address2": "Unit 8B",
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA",
+      "zip": "23579"
+    },
+    "email": "greta.fontaine4821@example.com",
+    "phone": "503-555-9313",
+    "payment_methods": {
+      "credit_card_4569164": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "2535",
+        "id": "credit_card_4569164"
+      }
+    },
+    "orders": [
+      "#W4762204",
+      "#W9089795"
+    ],
+    "authorized_replacement_no_return": [
+      {
+        "order_id": "#W9089795",
+        "item_id": "8713524078",
+        "reason": "technician total-loss determination"
+      }
+    ]
+  },
+  "malik_eriksson_2773": {
+    "name": {
+      "first_name": "Malik",
+      "last_name": "Eriksson"
+    },
+    "username": "malik.eriksson",
+    "address": {
+      "address1": "5836 Maplecrest Avenue",
+      "address2": "Suite 4100",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "zip": "82910"
+    },
+    "email": "malik.eriksson@yahoo.com",
+    "recovery_email": "malik.w.secure@yahoo.com",
+    "recovery_phone": "+1 (212) 555-2882",
+    "two_factor_enabled": true,
+    "account_status": "active",
+    "last_login_city": "New York",
+    "phone": "212-555-7022",
+    "payment_methods": {
+      "credit_card_5673599": {
+        "source": "credit_card",
+        "brand": "amex",
+        "last_four": "9406",
+        "id": "credit_card_5673599"
+      },
+      "paypal_4794319": {
+        "source": "paypal",
+        "id": "paypal_4794319"
+      }
+    },
+    "orders": [
+      "#W8199311"
+    ],
+    "recent_tickets": []
+  },
+  "quinn_novak_1430": {
+    "name": {
+      "first_name": "Quinn",
+      "last_name": "Novak"
+    },
+    "address": {
+      "address1": "4481 Overlook Terrace",
+      "address2": "Unit 7",
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA",
+      "zip": "33647"
+    },
+    "email": "quinn.novak5620@example.com",
+    "phone": "215-555-5477",
+    "payment_methods": {
+      "credit_card_6183902": {
+        "source": "credit_card",
+        "brand": "visa",
+        "last_four": "5567",
+        "id": "credit_card_6183902"
+      }
+    },
+    "orders": [
+      "#W6889195"
+    ]
+  },
+  "nadia_grimaldi_1100": {
+    "name": {
+      "first_name": "Nadia",
+      "last_name": "Grimaldi"
+    },
+    "address": {
+      "address1": "3072 Fallbrook Road",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA",
+      "zip": "28776"
+    },
+    "email": "nadia.grimaldi2841@example.com",
+    "phone": "704-555-7566",
+    "payment_methods": {
+      "credit_card_2167449": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "2324",
+        "id": "credit_card_2167449"
+      }
+    },
+    "orders": [
+      "#W1514340"
+    ]
+  },
+  "rosa_larsson_2503": {
+    "name": {
+      "first_name": "Rosa",
+      "last_name": "Larsson"
+    },
+    "address": {
+      "address1": "8791 Harborline Way",
+      "address2": "Apt 5C",
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA",
+      "zip": "38197"
+    },
+    "email": "rosa.larsson8842@example.com",
+    "phone": "612-555-7163",
+    "payment_methods": {
+      "credit_card_8043620": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "7432",
+        "id": "credit_card_8043620"
+      },
+      "gift_card_6719285": {
+        "source": "gift_card",
+        "balance": 175.0,
+        "id": "gift_card_6719285"
+      }
+    },
+    "orders": [
+      "#W3640889"
+    ]
+  },
+  "juno_okonkwo_7062": {
+    "name": {
+      "first_name": "Juno",
+      "last_name": "Okonkwo"
+    },
+    "address": {
+      "address1": "5205 Rosemont Street",
+      "address2": "Apt 5B",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "52517"
+    },
+    "email": "juno.okonkwo4821@example.com",
+    "phone": "206-555-2391",
+    "payment_methods": {
+      "credit_card_1882629": {
+        "source": "credit_card",
+        "brand": "mastercard",
+        "last_four": "2549",
+        "id": "credit_card_1882629"
+      }
+    },
+    "orders": [
+      "#W3640899",
+      "#W1834876"
+    ],
+    "authorized_missing_item_replacements": [
+      {
+        "order_id": "#W1834876",
+        "item_id": "6018293745",
+        "missing_component_description": "USB-C charger and cable"
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "RX-8787-3705": {
+    "receipt_id": "RX-8787-3705",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "date": "2026-03-27",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "total": 127.0,
+    "points_earned": 127,
+    "points_credited": false,
+    "customer_phone_at_checkout": null,
+    "payment_card_last_four": "2060"
+  },
+  "RX-1158-2832": {
+    "receipt_id": "RX-1158-2832",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "date": "2026-03-27",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "total": 127.0,
+    "points_earned": 127,
+    "points_credited": false,
+    "customer_phone_at_checkout": null,
+    "payment_card_last_four": "7239"
+  },
+  "RX-4788-7275": {
+    "receipt_id": "RX-4788-7275",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "date": "2026-03-27",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "total": 127.0,
+    "points_earned": 127,
+    "points_credited": false,
+    "customer_phone_at_checkout": null,
+    "payment_card_last_four": "2267"
+  },
+  "RX-5530-9595": {
+    "receipt_id": "RX-5530-9595",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "date": "2026-03-27",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "total": 127.0,
+    "points_earned": 127,
+    "points_credited": false,
+    "customer_phone_at_checkout": null,
+    "payment_card_last_four": "3545"
+  },
+  "RX-8483-3369": {
+    "receipt_id": "RX-8483-3369",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "date": "2026-03-27",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "total": 127.0,
+    "points_earned": 127,
+    "points_credited": false,
+    "customer_phone_at_checkout": null,
+    "payment_card_last_four": "7736"
+  },
+  "RX-7242-7086": {
+    "receipt_id": "RX-7242-7086",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "date": "2026-03-27",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "total": 127.0,
+    "points_earned": 127,
+    "points_credited": false,
+    "customer_phone_at_checkout": null,
+    "payment_card_last_four": "6038"
+  },
+  "RX-5477-6062": {
+    "receipt_id": "RX-5477-6062",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "date": "2026-03-27",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "total": 127.0,
+    "points_earned": 127,
+    "points_credited": false,
+    "customer_phone_at_checkout": null,
+    "payment_card_last_four": "0474"
+  },
+  "RX-6482-2079": {
+    "receipt_id": "RX-6482-2079",
+    "store": "BeautyMart Seattle - Pacific Place",
+    "store_id": "STORE-SEA-014",
+    "date": "2026-03-27",
+    "items": [
+      {
+        "name": "HydraGlow Skincare Set",
+        "price": 85.0
+      },
+      {
+        "name": "VelvetKiss Lipstick Duo",
+        "price": 42.0
+      }
+    ],
+    "total": 127.0,
+    "points_earned": 127,
+    "points_credited": false,
+    "customer_phone_at_checkout": null,
+    "payment_card_last_four": "5543"
+  }
+}

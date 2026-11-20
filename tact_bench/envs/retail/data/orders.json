@@ -1,0 +1,1199 @@
+{
+  "#W8547321": {
+    "order_id": "#W8547321",
+    "user_id": "mina_patel_7291",
+    "items": [
+      {
+        "name": "Laptop",
+        "product_id": "3841205730",
+        "item_id": "2095718340",
+        "price": 1599.99,
+        "options": {
+          "brand": "TechPro",
+          "model": "UltraBook 15",
+          "processor": "Intel i7-13700H",
+          "ram": "32GB",
+          "storage": "1TB SSD",
+          "color": "space gray"
+        }
+      }
+    ],
+    "status": "ready_for_pickup",
+    "fulfillment_type": "in_store_pickup",
+    "pickup_store": {
+      "store_id": "STORE-SJ-042",
+      "name": "TechMart San Jose - Westfield Valley Fair",
+      "address": "2855 Stevens Creek Blvd, San Jose, CA 95050"
+    },
+    "pickup_person": {
+      "name": "Mina Patel",
+      "id_required": true
+    },
+    "pickup_deadline": "2026-04-02T20:00:00",
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 1599.99,
+        "payment_method_id": "credit_card_8917234"
+      }
+    ]
+  },
+  "#W5567341": {
+    "order_id": "#W5567341",
+    "user_id": "mina_patel_7291",
+    "items": [
+      {
+        "name": "Keyboard",
+        "product_id": "7808963514",
+        "price": 199.99,
+        "item_id": "7920074625",
+        "options": {
+          "brand": "TechPro",
+          "model": "MechKey Pro",
+          "switch_type": "mechanical brown",
+          "layout": "full size",
+          "backlight": "RGB"
+        }
+      }
+    ],
+    "status": "ready_for_pickup",
+    "fulfillment_type": "in_store_pickup",
+    "pickup_store": {
+      "store_id": "STORE-SJ-042",
+      "name": "TechMart San Jose - Westfield Valley Fair",
+      "address": "2855 Stevens Creek Blvd, San Jose, CA 95050"
+    },
+    "pickup_person": {
+      "name": "Mina Patel",
+      "id_required": true
+    },
+    "pickup_deadline": "2026-08-02T20:00:00",
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 199.99,
+        "payment_method_id": "credit_card_8917234"
+      }
+    ]
+  },
+  "#W3186429": {
+    "order_id": "#W3186429",
+    "user_id": "mina_patel_7291",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "product_id": "8031295847",
+        "item_id": "8140306958",
+        "price": 349.99,
+        "options": {
+          "brand": "SoundWave",
+          "model": "Elite ANC",
+          "color": "black",
+          "noise_cancellation": "active"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "482 Willow Creek Drive",
+      "address2": "Apt 3B",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA",
+      "zip": "95126"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "482957103846"
+        ],
+        "item_ids": [
+          "8140306958"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 349.99,
+        "payment_method_id": "credit_card_8917234"
+      }
+    ]
+  },
+  "#W6023874": {
+    "order_id": "#W6023874",
+    "user_id": "jason_kim_5840",
+    "items": [
+      {
+        "name": "Laptop",
+        "product_id": "3841205730",
+        "item_id": "3150982476",
+        "price": 2199.99,
+        "options": {
+          "brand": "TechPro",
+          "model": "ProStation 16",
+          "processor": "Intel i9-13900H",
+          "ram": "32GB",
+          "storage": "1TB SSD",
+          "color": "midnight black"
+        }
+      }
+    ],
+    "status": "ready_for_pickup",
+    "fulfillment_type": "in_store_pickup",
+    "pickup_store": {
+      "store_id": "STORE-SF-018",
+      "name": "TechMart San Francisco - Union Square",
+      "address": "170 O'Farrell Street, San Francisco, CA 94102"
+    },
+    "pickup_person": {
+      "name": "Jason Kim",
+      "id_required": true
+    },
+    "pickup_deadline": "2026-05-15T20:00:00",
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 2199.99,
+        "payment_method_id": "credit_card_3392018"
+      }
+    ]
+  },
+  "#W9184752": {
+    "order_id": "#W9184752",
+    "user_id": "jason_kim_5840",
+    "items": [
+      {
+        "name": "Smart Watch",
+        "product_id": "1142306958",
+        "item_id": "1253418069",
+        "price": 449.99,
+        "options": {
+          "brand": "TechPro",
+          "model": "Watch Ultra",
+          "size": "45mm",
+          "color": "titanium",
+          "band": "sport"
+        }
+      }
+    ],
+    "status": "pending",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "1201 Market Street",
+      "address2": "Suite 450",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "94103"
+    },
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 449.99,
+        "payment_method_id": "paypal_6624817"
+      }
+    ]
+  },
+  "#W4291587": {
+    "order_id": "#W4291587",
+    "user_id": "sarah_chen_6193",
+    "items": [
+      {
+        "name": "Tablet",
+        "product_id": "5920184736",
+        "item_id": "7129304856",
+        "price": 699.99,
+        "options": {
+          "brand": "TechPro",
+          "model": "Tab Pro 11",
+          "storage": "256GB",
+          "color": "space gray",
+          "connectivity": "WiFi + Cellular"
+        }
+      },
+      {
+        "name": "Laptop Bag",
+        "product_id": "5586741392",
+        "item_id": "5697852403",
+        "price": 89.99,
+        "options": {
+          "size": "15.6 inch",
+          "material": "leather",
+          "color": "brown"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "77 Sunset Boulevard",
+      "address2": "",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA",
+      "zip": "90028"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "739281054637"
+        ],
+        "item_ids": [
+          "7129304856",
+          "5697852403"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 789.98,
+        "payment_method_id": "credit_card_5518203"
+      }
+    ]
+  },
+  "#W7319042": {
+    "order_id": "#W7319042",
+    "user_id": "omar_hassan_4027",
+    "items": [
+      {
+        "name": "Monitor",
+        "product_id": "6697852403",
+        "item_id": "6808963514",
+        "price": 599.99,
+        "options": {
+          "brand": "TechPro",
+          "model": "UltraWide 34",
+          "resolution": "3440x1440",
+          "panel": "IPS",
+          "refresh_rate": "144Hz"
+        }
+      }
+    ],
+    "status": "pending",
+    "fulfillment_type": "in_store_pickup",
+    "pickup_store": {
+      "store_id": "STORE-PD-007",
+      "name": "TechMart Portland - Pioneer Place",
+      "address": "700 SW 5th Avenue, Portland, OR 97204"
+    },
+    "pickup_person": {
+      "name": "Omar Hassan",
+      "id_required": true
+    },
+    "pickup_deadline": "2026-04-08T20:00:00",
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 599.99,
+        "payment_method_id": "credit_card_7742019"
+      }
+    ]
+  },
+  "#W5827163": {
+    "order_id": "#W5827163",
+    "user_id": "lisa_martinez_8562",
+    "items": [
+      {
+        "name": "Laptop",
+        "product_id": "3841205730",
+        "item_id": "1048273619",
+        "price": 1299.99,
+        "options": {
+          "brand": "TechPro",
+          "model": "UltraBook 15",
+          "processor": "Intel i7-13700H",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "color": "silver"
+        }
+      },
+      {
+        "name": "Wireless Mouse",
+        "product_id": "3364529170",
+        "item_id": "3475630281",
+        "price": 79.99,
+        "options": {
+          "brand": "TechPro",
+          "model": "ErgoClick",
+          "color": "graphite",
+          "connectivity": "Bluetooth"
+        }
+      }
+    ],
+    "status": "ready_for_pickup",
+    "fulfillment_type": "in_store_pickup",
+    "pickup_store": {
+      "store_id": "STORE-AX-031",
+      "name": "TechMart Austin - Domain",
+      "address": "11600 Century Oaks Terrace, Austin, TX 78758"
+    },
+    "pickup_person": {
+      "name": "Lisa Martinez",
+      "id_required": true
+    },
+    "pickup_deadline": "2026-04-03T20:00:00",
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 1379.98,
+        "payment_method_id": "credit_card_2209817"
+      }
+    ]
+  },
+  "#W2847193": {
+    "order_id": "#W2847193",
+    "user_id": "elena_morris_3847",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "product_id": "9031847265",
+        "item_id": "9142958376",
+        "price": 129.99,
+        "options": {
+          "brand": "SoundWave",
+          "model": "BoomBox 360",
+          "color": "black",
+          "waterproof": true
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "1023 Birch Street",
+      "address2": "Apt 7A",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "60614"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "591038274615"
+        ],
+        "item_ids": [
+          "9142958376"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 129.99,
+        "payment_method_id": "credit_card_4490218"
+      }
+    ]
+  },
+  "#W6194835": {
+    "order_id": "#W6194835",
+    "user_id": "farid_rahmani_7731",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "product_id": "8031295847",
+        "item_id": "8140306958",
+        "price": 349.99,
+        "options": {
+          "brand": "SoundWave",
+          "model": "Elite ANC",
+          "color": "black",
+          "noise_cancellation": "active"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "482 Mission Street",
+      "address2": "Apt 12B",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "94107"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "738194025736"
+        ],
+        "item_ids": [
+          "8140306958"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 349.99,
+        "payment_method_id": "credit_card_3928174"
+      }
+    ]
+  },
+  "#W3029584": {
+    "order_id": "#W3029584",
+    "user_id": "lena_kowalski_8842",
+    "items": [
+      {
+        "name": "Keyboard",
+        "product_id": "7808963514",
+        "item_id": "7920074625",
+        "price": 149.99,
+        "options": {
+          "brand": "TechPro",
+          "model": "MechKey Pro",
+          "switch_type": "mechanical brown",
+          "layout": "full size",
+          "backlight": "RGB"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "1200 Lake Shore Drive",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "60611"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "482917305841"
+        ],
+        "item_ids": [
+          "7920074625"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 149.99,
+        "payment_method_id": "credit_card_5519203"
+      }
+    ]
+  },
+  "#W8371250": {
+    "order_id": "#W8371250",
+    "user_id": "nathan_webb_3190",
+    "items": [
+      {
+        "name": "Tablet",
+        "product_id": "5920184736",
+        "item_id": "7129304856",
+        "price": 699.99,
+        "options": {
+          "brand": "TechPro",
+          "model": "Tab Pro 11",
+          "storage": "256GB",
+          "color": "space gray",
+          "connectivity": "WiFi + Cellular"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "350 Fifth Avenue",
+      "address2": "Suite 4100",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "zip": "10118"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "619384720518"
+        ],
+        "item_ids": [
+          "7129304856"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 699.99,
+        "payment_method_id": "credit_card_6641829"
+      }
+    ]
+  },
+  "#W4519283": {
+    "order_id": "#W4519283",
+    "user_id": "rachel_kim_4501",
+    "items": [
+      {
+        "name": "Smart Watch",
+        "product_id": "1142306958",
+        "item_id": "1364529170",
+        "price": 279.99,
+        "options": {
+          "brand": "TechPro",
+          "model": "Watch SE",
+          "size": "40mm",
+          "color": "midnight",
+          "band": "silicone"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "2750 Hennepin Avenue",
+      "address2": "Apt 5C",
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA",
+      "zip": "55408"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "504817293650"
+        ],
+        "item_ids": [
+          "1364529170"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 279.99,
+        "payment_method_id": "credit_card_8815203"
+      }
+    ]
+  },
+  "#W6391024": {
+    "order_id": "#W6391024",
+    "user_id": "ava_bennett_6194",
+    "items": [
+      {
+        "name": "Jeans",
+        "product_id": "4380291567",
+        "item_id": "4491302678",
+        "price": 80.0,
+        "options": {
+          "brand": "UrbanThread",
+          "model": "Slim Fit",
+          "size": "30x32",
+          "color": "dark wash"
+        }
+      },
+      {
+        "name": "Sweater",
+        "product_id": "5491302678",
+        "item_id": "5602413789",
+        "price": 130.0,
+        "options": {
+          "brand": "UrbanThread",
+          "model": "Cashmere Crew",
+          "size": "M",
+          "color": "heather gray"
+        }
+      },
+      {
+        "name": "Jacket",
+        "product_id": "6602413789",
+        "item_id": "6713524890",
+        "price": 190.0,
+        "options": {
+          "brand": "UrbanThread",
+          "model": "Quilted Puffer",
+          "size": "M",
+          "color": "navy"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "520 Maple Street",
+      "address2": "Apt 4D",
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA",
+      "zip": "80202"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "847291053624"
+        ],
+        "item_ids": [
+          "4491302678",
+          "5602413789",
+          "6713524890"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 400.0,
+        "payment_method_id": "credit_card_9182034"
+      }
+    ]
+  },
+  "#W7482031": {
+    "order_id": "#W7482031",
+    "user_id": "jasmine_lee_7482",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "product_id": "8031295847",
+        "item_id": "9251417069",
+        "price": 199.99,
+        "options": {
+          "brand": "SoundWave",
+          "model": "Sport Flex",
+          "color": "navy blue",
+          "noise_cancellation": "passive"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "1840 Elm Park Avenue",
+      "address2": "Apt 2C",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "98101"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "630481729053"
+        ],
+        "item_ids": [
+          "9251417069"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 199.99,
+        "payment_method_id": "credit_card_7203948"
+      }
+    ]
+  },
+  "#W9203847": {
+    "order_id": "#W9203847",
+    "user_id": "natalie_brooks_5918",
+    "items": [
+      {
+        "name": "Sofa",
+        "product_id": "7491302856",
+        "item_id": "7602413967",
+        "price": 1899.0,
+        "options": {
+          "brand": "CasaLux",
+          "model": "Milano Sectional",
+          "material": "performance fabric",
+          "color": "charcoal gray",
+          "configuration": "L-shape right-facing"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "delivery_type": "large_item",
+    "address": {
+      "address1": "2105 Oakwood Lane",
+      "address2": "Unit 8B",
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA",
+      "zip": "97209"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "920384710562"
+        ],
+        "item_ids": [
+          "7602413967"
+        ],
+        "delivery_notes": "white glove delivery, assembled in living room"
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 1899.0,
+        "payment_method_id": "credit_card_6304829"
+      }
+    ]
+  },
+  "#W1058293": {
+    "order_id": "#W1058293",
+    "user_id": "lauren_chen_8174",
+    "items": [
+      {
+        "name": "Milk",
+        "product_id": "9201384756",
+        "item_id": "9301847562",
+        "price": 4.29,
+        "options": {
+          "brand": "FreshBasics",
+          "type": "Whole Milk",
+          "size": "1 gallon",
+          "category": "conventional"
+        }
+      },
+      {
+        "name": "Eggs",
+        "product_id": "9302495867",
+        "item_id": "9413069784",
+        "price": 3.49,
+        "options": {
+          "brand": "FreshBasics",
+          "type": "Large Eggs",
+          "size": "12 count",
+          "category": "conventional"
+        }
+      },
+      {
+        "name": "Infant Formula",
+        "product_id": "9403506978",
+        "item_id": "9514281006",
+        "price": 18.99,
+        "options": {
+          "brand": "LittleSteps",
+          "type": "Gentle Infant Formula",
+          "size": "12.5 oz",
+          "category": "standard"
+        }
+      },
+      {
+        "name": "Coffee Pods",
+        "product_id": "9504617089",
+        "item_id": "9615392100",
+        "price": 8.49,
+        "options": {
+          "brand": "FreshBasics",
+          "type": "Medium Roast Coffee Pods",
+          "size": "12 count",
+          "category": "conventional"
+        }
+      },
+      {
+        "name": "Gluten-Free Bread",
+        "product_id": "9605728190",
+        "item_id": "9716403322",
+        "price": 5.49,
+        "options": {
+          "brand": "FreshBasics",
+          "type": "Gluten-Free Sandwich Bread",
+          "size": "1 loaf",
+          "category": "store brand"
+        }
+      }
+    ],
+    "status": "pending",
+    "fulfillment_type": "same_day_delivery",
+    "delivery_window": "2026-04-02T17:00:00 - 2026-04-02T19:00:00",
+    "address": {
+      "address1": "1432 Ridge Avenue",
+      "address2": "Apt 7A",
+      "city": "Evanston",
+      "state": "IL",
+      "country": "USA",
+      "zip": "60201"
+    },
+    "substitution_preference": "customer_choice",
+    "substitution_edit_deadline": "2026-04-02T14:00:00",
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 40.75,
+        "payment_method_id": "credit_card_4720183"
+      }
+    ]
+  },
+  "#W5847392": {
+    "order_id": "#W5847392",
+    "user_id": "megan_foster_2931",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "product_id": "8031295847",
+        "item_id": "8140306958",
+        "price": 349.99,
+        "options": {
+          "brand": "SoundWave",
+          "model": "Elite ANC",
+          "color": "black",
+          "noise_cancellation": "active"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "847 Congress Avenue",
+      "address2": "Apt 3C",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA",
+      "zip": "78701"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "739201847563"
+        ],
+        "item_ids": [
+          "8140306958"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 349.99,
+        "payment_method_id": "credit_card_8103924"
+      }
+    ]
+  },
+  "#W5902847": {
+    "order_id": "#W5902847",
+    "user_id": "alex_morgan_5021",
+    "items": [
+      {
+        "name": "Smart Watch",
+        "product_id": "1142306958",
+        "item_id": "1364529170",
+        "price": 279.99,
+        "options": {
+          "brand": "TechPro",
+          "model": "Watch SE",
+          "size": "44mm",
+          "color": "silver",
+          "band": "sport band"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "2301 Lake Shore Drive",
+      "address2": "",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip": "60605"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "850394716028"
+        ],
+        "item_ids": [
+          "1364529170"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 279.99,
+        "payment_method_id": "credit_card_6047829"
+      }
+    ]
+  },
+  "#W6104837": {
+    "order_id": "#W6104837",
+    "user_id": "sophie_turner_6438",
+    "items": [
+      {
+        "name": "Wireless Headphones Bundle",
+        "product_id": "8031295848",
+        "item_id": "7391827465",
+        "price": 249.99,
+        "options": {
+          "brand": "SoundWave",
+          "model": "Pro X Bundle",
+          "color": "midnight black",
+          "noise_cancellation": "active",
+          "includes": "headphones, charging case, USB-C cable, carry pouch"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "3820 University Way NE",
+      "address2": "Apt 5B",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "98105"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "601849273015"
+        ],
+        "item_ids": [
+          "7391827465"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 249.99,
+        "payment_method_id": "credit_card_5392847"
+      }
+    ]
+  },
+  "#W7293048": {
+    "order_id": "#W7293048",
+    "user_id": "chloe_ramirez_4715",
+    "items": [
+      {
+        "name": "Handwoven Rattan Pendant Lamp Shade",
+        "product_id": null,
+        "item_id": "8293047156",
+        "price": 68.0,
+        "options": {
+          "listing_title": "Handwoven Natural Rattan Pendant Lamp Shade, 16-inch Round, Warm Amber",
+          "seller_id": "marketplace_seller_88142",
+          "seller_name": "BohoHomeDecor",
+          "condition": "new",
+          "material_listed": "100% natural rattan"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "marketplace_shipping",
+    "marketplace": true,
+    "address": {
+      "address1": "1104 East McDowell Road",
+      "address2": "Apt 6C",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA",
+      "zip": "85004"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "471829304756"
+        ],
+        "item_ids": [
+          "8293047156"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 68.0,
+        "payment_method_id": "credit_card_2819037"
+      }
+    ]
+  },
+  "#W4829315": {
+    "order_id": "#W4829315",
+    "user_id": "noah_mitchell_4092",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "product_id": "6194820375",
+        "item_id": "4815029376",
+        "price": 549.0,
+        "options": {
+          "brand": "TechPro",
+          "model": "ChronoSmart X",
+          "case_size": "45mm",
+          "case_color": "graphite",
+          "band": "sport loop midnight",
+          "cellular": "GPS + Cellular"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "delivered_date": "2026-02-15",
+    "address": {
+      "address1": "1428 Spring Garden Street",
+      "address2": "Unit 7",
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA",
+      "zip": "19130"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "592817304682"
+        ],
+        "item_ids": [
+          "4815029376"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 549.0,
+        "payment_method_id": "credit_card_5083921"
+      }
+    ]
+  },
+  "#W3527108": {
+    "order_id": "#W3527108",
+    "user_id": "olivia_reed_6371",
+    "items": [
+      {
+        "name": "Home A1C Diagnostic Test Kit",
+        "product_id": "4820193756",
+        "item_id": "7283091462",
+        "price": 68.99,
+        "options": {
+          "brand": "HealthSure",
+          "model": "A1C Rapid at-Home Kit",
+          "category": "home_diagnostic",
+          "final_sale": true,
+          "returnable": false
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "delivered_date": "2026-04-12",
+    "return_window_days": 30,
+    "return_deadline": "2026-05-12",
+    "address": {
+      "address1": "945 Chestnut Ridge Road",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA",
+      "zip": "28202"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "384920571638"
+        ],
+        "item_ids": [
+          "7283091462"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 68.99,
+        "payment_method_id": "credit_card_9471028"
+      }
+    ]
+  },
+  "#W4715820": {
+    "order_id": "#W4715820",
+    "user_id": "natalie_brooks_5918",
+    "items": [
+      {
+        "name": "Dining Table",
+        "product_id": "8602413967",
+        "item_id": "8713524078",
+        "price": 1299.0,
+        "options": {
+          "brand": "CasaLux",
+          "model": "Hampstead Extendable",
+          "material": "solid oak",
+          "color": "natural",
+          "seats": "6-8"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "delivery_type": "large_item",
+    "address": {
+      "address1": "2105 Oakwood Lane",
+      "address2": "Unit 8B",
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA",
+      "zip": "97209"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "471582093271"
+        ],
+        "item_ids": [
+          "8713524078"
+        ],
+        "delivery_notes": "white glove delivery, assembled in dining room"
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 1299.0,
+        "payment_method_id": "credit_card_6304829"
+      }
+    ]
+  },
+  "#W7283904": {
+    "order_id": "#W7283904",
+    "user_id": "sophie_turner_6438",
+    "items": [
+      {
+        "name": "Tablet",
+        "product_id": "5920184736",
+        "item_id": "6018293745",
+        "price": 499.99,
+        "options": {
+          "brand": "TechPro",
+          "model": "Tab Pro 11",
+          "storage": "128GB",
+          "color": "silver",
+          "connectivity": "WiFi"
+        }
+      }
+    ],
+    "status": "delivered",
+    "fulfillment_type": "shipping",
+    "address": {
+      "address1": "3820 University Way NE",
+      "address2": "Apt 5B",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zip": "98105"
+    },
+    "fulfillments": [
+      {
+        "tracking_id": [
+          "728390473182"
+        ],
+        "item_ids": [
+          "6018293745"
+        ]
+      }
+    ],
+    "payment_history": [
+      {
+        "transaction_type": "payment",
+        "amount": 499.99,
+        "payment_method_id": "credit_card_5392847"
+      }
+    ]
+  }
+}

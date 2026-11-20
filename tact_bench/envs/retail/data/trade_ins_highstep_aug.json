@@ -1,0 +1,202 @@
+{
+  "TRD-6438436": {
+    "trade_in_id": "TRD-6438436",
+    "user_id": "diego_goldberg_3504",
+    "device": {
+      "type": "Smartphone",
+      "brand": "TechPro",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "color": "midnight black"
+    },
+    "submitted_condition": "good",
+    "submitted_quote": 340.0,
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_date": "2026-03-28",
+    "inspection_date": "2026-04-01",
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": []
+  },
+  "TRD-5428914": {
+    "trade_in_id": "TRD-5428914",
+    "user_id": "yusuf_pemberton_5462",
+    "device": {
+      "type": "Smartphone",
+      "brand": "TechPro",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "color": "midnight black"
+    },
+    "submitted_condition": "good",
+    "submitted_quote": 340.0,
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_date": "2026-03-28",
+    "inspection_date": "2026-04-01",
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": []
+  },
+  "TRD-5147994": {
+    "trade_in_id": "TRD-5147994",
+    "user_id": "cyrus_bellamy_9976",
+    "device": {
+      "type": "Smartphone",
+      "brand": "TechPro",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "color": "midnight black"
+    },
+    "submitted_condition": "good",
+    "submitted_quote": 340.0,
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_date": "2026-03-28",
+    "inspection_date": "2026-04-01",
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": []
+  },
+  "TRD-6549757": {
+    "trade_in_id": "TRD-6549757",
+    "user_id": "otto_vance_8753",
+    "device": {
+      "type": "Smartphone",
+      "brand": "TechPro",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "color": "midnight black"
+    },
+    "submitted_condition": "good",
+    "submitted_quote": 340.0,
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_date": "2026-03-28",
+    "inspection_date": "2026-04-01",
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": []
+  },
+  "TRD-1229419": {
+    "trade_in_id": "TRD-1229419",
+    "user_id": "dmitri_sinclair_2989",
+    "device": {
+      "type": "Smartphone",
+      "brand": "TechPro",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "color": "midnight black"
+    },
+    "submitted_condition": "good",
+    "submitted_quote": 340.0,
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_date": "2026-03-28",
+    "inspection_date": "2026-04-01",
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": []
+  },
+  "TRD-2932227": {
+    "trade_in_id": "TRD-2932227",
+    "user_id": "jonas_fitzgerald_5465",
+    "device": {
+      "type": "Smartphone",
+      "brand": "TechPro",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "color": "midnight black"
+    },
+    "submitted_condition": "good",
+    "submitted_quote": 340.0,
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_date": "2026-03-28",
+    "inspection_date": "2026-04-01",
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": []
+  },
+  "TRD-9089795": {
+    "trade_in_id": "TRD-9089795",
+    "user_id": "theo_ridgeway_6119",
+    "device": {
+      "type": "Smartphone",
+      "brand": "TechPro",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "color": "midnight black"
+    },
+    "submitted_condition": "good",
+    "submitted_quote": 340.0,
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_date": "2026-03-28",
+    "inspection_date": "2026-04-01",
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": []
+  },
+  "TRD-9464927": {
+    "trade_in_id": "TRD-9464927",
+    "user_id": "felix_whitfield_3471",
+    "device": {
+      "type": "Smartphone",
+      "brand": "TechPro",
+      "model": "Pro 15",
+      "storage": "256GB",
+      "color": "midnight black"
+    },
+    "submitted_condition": "good",
+    "submitted_quote": 340.0,
+    "inspected_condition": "fair",
+    "inspected_value": 210.0,
+    "inspection_notes": "Minor screen scratches noted; original charger and cable not included in shipment",
+    "status": "pending_customer_response",
+    "submitted_date": "2026-03-28",
+    "inspection_date": "2026-04-01",
+    "accessories_claimed_by_customer": [
+      "original charger",
+      "original cable",
+      "original box"
+    ],
+    "accessories_found_by_inspector": []
+  }
+}
